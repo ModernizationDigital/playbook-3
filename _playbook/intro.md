@@ -6,7 +6,7 @@ Simply put, it is the process of upgrading existing processes and adopting new t
 
 ### Transformation, Modernization, Migration
 
-Is Digital Transformation the same as Modernization or even Migration? What's the difference? More importantly how do I do it? Well, if transformation in this context is upgrading your processes, technology, data and organization to meet industry needs. Modernization is using that technology to properly! Making sure you fix the operations and the infrastructure. How can you do that? Cloud services: Migration.  
+Is Digital Transformation the same as Modernization or even Migration? What's the difference? Are you still reading? Just Checking.? Well, if transformation in this context is upgrading your processes, technology, data and organization to meet industry needs. Modernization is using that technology to properly! Making sure you fix the operations and the infrastructure. How can you do that? Cloud services: Migration.  
 
 Transformation is somewhat holistic: Do we have all the right things; new policies; new values; right people 
 Modernization: Is actually doing the do work.   
