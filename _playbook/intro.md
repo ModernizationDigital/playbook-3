@@ -6,7 +6,12 @@ Simply put, it is the process of upgrading existing processes and adopting new t
 
 ### Transformation, Modernization, Migration
 
-What's the difference? Isn't it really all the same? How do I decide which one I need?  More importantly how do I do it?  
+Is Digital Transformation the same as Modernization or even Migration? What's the difference? More importantly how do I do it? Well, if transformation in this context is upgrading your processes, technology, data and organization to meet industry needs. Modernization is using that technology to properly! Making sure you fix the operations and the infrastructure. How can you do that? Cloud services: Migration.  
+
+Transformation is somewhat holistic: Do we have all the right things; new policies; new values; right people 
+Modernization: Is actually doing the do work.   
+Migration: is the act of cleaning everything up.  
+
 ![Iteration Cycles]({{site.baseurl}}/images/iteration-cycles.png)
 
 For example, the Twitter homepage is composed through calls to dozens of microservices, including a “who to follow” microservice, a “trends” microservice, a “tweets” microservice, and many others -- some of which in turn call other microservices. The key to a successful microservices architecture is the loose coupling, which enables each microservice to be developed, tested, and released independently of the other microservices.
