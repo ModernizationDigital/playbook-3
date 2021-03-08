@@ -4,7 +4,7 @@ title: 'What is Digital Transformation'
 ---
 Simply put, it is the process of upgrading existing processes and adopting new technology systems to meet the needs of the industry. Process, Technology, along with Data and Organizational change comprise the four main pillars of Digital Transformation. 
 
-## Transformation, Modernization, Migration
+### Transformation, Modernization, Migration
 
 What's the difference? Isn't it really all the same? How do I decide which one I need?  More importantly how do I do it?  
 ![Iteration Cycles]({{site.baseurl}}/images/iteration-cycles.png)
