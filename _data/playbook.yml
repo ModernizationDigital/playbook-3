@@ -1,6 +1,6 @@
 - title: intro
   children:
-  - should-i-adopt
+  - application-rationalization
   - how-do-i-adopt
   - how-your-stack-changes
 - title: from-monolith-to-microservices

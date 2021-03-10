@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Should I Adopt?'
+title: 'Application Rationalization'
 ---
 Today, organizations considering adopting microservices should make this decision based on three criteria:
 
