@@ -2,13 +2,21 @@
 layout: page
 title: 'Application Rationalization'
 ---
-Today, organizations considering adopting microservices should make this decision based on three criteria:
+STEP 1: Application Rationalization: Evaluate legacy systems using six drivers 
 
-1. Organizational support for accelerating the customer feedback loop. Fundamentally, the business needs to agree that getting customer and market feedback faster is a key priority. 
+Application rationalization needs to be collaborative — engaging both IT and business stakeholders. Both parties need to come to the table. This playbook exists because your organization wants to deliver innovative and efficient customer service.  
 
-2. Your organization’s current and anticipated capabilities for adopting new technologies and approaches. Successful adoption of a microservices architecture requires a commitment to learning and adopting new technologies. Organizations that tend to be more conservative in learning and adopting new technology choices may not be ready for microservices today.
+Grab a coffee and fix your wigs and show up to the table. Start by booking at least 3 meetings with your PPM - each 1 hour and then just show up. Here are a few things you will need to consider.  
 
-3. The size of your development organization. The benefits of microservices compound with the size of the development team. The larger the development team, the greater the benefits of a microservice architecture.
+#### Inventory: 
+First let's look at what you have: what relevant applications do you manage? What is the volume of use for each map? What was its intended use? Is that use still in effect?  
+
+##### Classification: 
+As a first pass, can you bucket your apps into three categories: do nothing, minimal enhancement needed, & major enhancements need.  
+
+Define: Your enterprise will have adopted a strategy for future technology. How do you plan to adapt to that goal? A total cost of ownership (TCO) analysis that key business and IT stakeholders align on will help you determine your  
+
+Placement of applications — what deployment models (cloud, on-prem, hybrid, SaaS) will your use? What future state application landscape do I need, and how do I figure out how to manage the efficient governance of the new portfolio. 
 
 #### Should small development organizations shy away from microservices?
 
