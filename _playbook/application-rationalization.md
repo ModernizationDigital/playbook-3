@@ -8,6 +8,6 @@ Application rationalization needs to be collaborative — engaging both IT and b
 
 1. Inventory: First let's look at what you have: what relevant applications do you manage? What is the volume of use for each map? What was its intended use? Is that use still in effect?  
 2. Classification: As a first pass, can you bucket your apps into three categories: do nothing, minimal enhancement needed, & major enhancements need.  
-3. Define: Your enterprise will have adopted a strategy for future technology. How do you plan to adapt to that goal? A total cost of ownership (TCO) analysis that key business and IT stakeholders align on will help you determine your  
+3. Define: Your enterprise will have adopted a strategy for future technology. How do you plan to adapt to that goal? A total cost of ownership (TCO) analysis that key business and IT stakeholders align on will help you determine your strategy.  
 4. Placement of applications: What deployment models (cloud, on-prem, hybrid, SaaS) will your use? What future state application landscape do I need, and how do I figure out how to manage the efficient governance of the new portfolio. 
 

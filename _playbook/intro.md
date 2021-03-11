@@ -6,16 +6,12 @@ Simply put, it is the process of upgrading existing processes and adopting new t
 
 ### Transformation, Modernization, Migration
 
-Is Digital Transformation the same as Modernization or even Migration? What's the difference? Are you still reading? Just Checking.? Well, if transformation in this context is upgrading your processes, technology, data and organization to meet industry needs. Modernization is using that technology to properly! Making sure you fix the operations and the infrastructure. How can you do that? Cloud services: Migration.  
+Is Digital Transformation the same as Modernization or even Migration? What's the difference? Are you still reading? Just Checking. Well, if transformation in this context is upgrading your processes, technology, data and organization to meet industry needs, then modernization is using that technology to properly! Making sure you fix the operations and the infrastructure. How can you do that? 
 
-Transformation is somewhat holistic: Do we have all the right things; new policies; new values; right people 
-Modernization: Is actually doing the do work.   
-Migration: is the act of cleaning everything up.  
+An inventory your legacy systems will help you make some key decisions. Some applications might need a complete overhaul, some could involve minimal work to make use of new technologies; and then part of this inventory process is deciding if an application can be left as is or even retired. 
+
+Our playbook details a 3 STEP - Pre Migration Evaluation. In STEP 1 we participate in an active discovery of all relevant applications that your manage and the creation of your application landscape. STEP 2 is where we evaluate the health and value of each of your managed apps. Finally in our last STEP — 3 we will give you options to help develop your modernization plan.  
+
 
 ![Iteration Cycles]({{site.baseurl}}/images/iteration-cycles.png)
 
-For example, the Twitter homepage is composed through calls to dozens of microservices, including a “who to follow” microservice, a “trends” microservice, a “tweets” microservice, and many others -- some of which in turn call other microservices. The key to a successful microservices architecture is the loose coupling, which enables each microservice to be developed, tested, and released independently of the other microservices.
-
-### Isn’t this just SOA?
-
-Many people frequently point out that the core concepts of microservices were pioneered in service oriented architectures (SOA). While there are some technical similarities between microservices and SOA, microservices is focused on a different class of problems -- how to organizationally and computationally scale your cloud-native application architecture -- and takes advantage of cloud and DevOps technologies to create a more powerful, flexible approach to software architecture for cloud-native applications.
