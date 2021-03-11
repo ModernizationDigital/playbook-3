@@ -10,7 +10,6 @@ Is Digital Transformation the same as Modernization or even Migration? What's th
 
 Our playbook details a 3 STEP - Pre Migration Evaluation. In STEP 1 we participate in an active discovery of all relevant applications that your manage and the creation of your application landscape. STEP 2 is where we evaluate the health and value of each of your managed apps. Finally in our last STEP — 3 we will give you options to help develop your modernization plan.  
 
-
 ![Iteration Cycles]({{site.baseurl}}/images/iteration-cycles.png)
 
 An inventory your legacy systems will help you make some key decisions. Some applications might need a complete overhaul, some could involve minimal work to make use of new technologies; and then part of this inventory process is deciding if an application can be left as is or even retired. 
