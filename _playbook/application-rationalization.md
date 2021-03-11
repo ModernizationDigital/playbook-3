@@ -4,7 +4,7 @@ title: 'Application Rationalization'
 ---
 ### Evaluate legacy systems
 
-Application rationalization needs to be collaborative — engaging both IT and business stakeholders. Both parties need to come to the table. This playbook exists because your organization wants to deliver innovative and efficient customer service. Grab a coffee and fix your wigs and show up to the table. Start by booking at least 3 meetings with your PPM - each 1 hour and then just show up. Here are a few things you will need to consider.  
+Application rationalization needs to be collaborative — engaging both IT and business stakeholders. Both parties need to come to the table. This playbook exists because your organization wants to deliver innovative and efficient customer service. Grab a coffee, fix your wigs and show up to the table. Start by booking at least 3 meetings with your PPM - each 1 hour and then just show up. Here are a few things you will need to consider.  
 
 1. Inventory: First let's look at what you have: what relevant applications do you manage? What is the volume of use for each map? What was its intended use? Is that use still in effect?  
 2. Classification: As a first pass, can you bucket your apps into three categories: do nothing, minimal enhancement needed, & major enhancements need.  
