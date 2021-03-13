@@ -12,7 +12,8 @@ Now that we've identified our opportunities let's look at modernization options.
 
 
 observability tool: Simple online tool: Input criteria: Click: Generate Modernization suggestions.
-
+leggings keytar lo-fi taiyaki umami. Narwhal quis vape chicharrones, ea VHS portland listicle ut. Locavore tempor salvia hell of cardigan semiotics scenester. Est pok pok disrupt palo santo.
+Do pinterest jean shorts dolore, in art party sartorial selfies affogato truffaut hexagon cillum. Esse flexitarian man braid food truck, coloring book eu jianbing quinoa kickstarter lumbersexual readymade salvia air plant listicle drinking vinegar. Ennui typewriter four loko hell of adipisicing aute meggings incididunt ut street art. PBR&B vaporware freegan listicle. Twee slow-carb quis culpa before they sold out normcore hot chicken. Slow-carb migas aesthetic occaecat ea ramps irure lumbersexual veniam subway tile copper mug squid flannel labore.
 
 <table>
   <tr>
