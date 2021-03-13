@@ -12,6 +12,7 @@ Application rationalization succeeds with collaboration — engaging both IT and
 </br>Future Iteration: Classification Table to fill out  
 3. Define: Your enterprise will have adopted a strategy for future technology. How do you plan to adapt to that goal? What business objectives would you like to achieve in the next 3-5 years. A total cost of ownership (TCO) analysis that key business and IT stakeholders align on will help you determine your strategy.
 </br>Future Iteration: Strategy Form | link to calculators?  
-4. Placement of applications: What deployment models (cloud, on-prem, hybrid, SaaS) will your use? What future state application landscape do I need, and how do I figure out how to manage the efficient governance of the new portfolio.
-</br>Future Iteration: Simple online tool: Input criteria: Click: Generate Modernization suggestions.  
+4. Placement of applications: What deployment models (public, private, community, and hybrid) will you use? What future state application landscape do you need, and how do to figure out how to manage the efficient governance of the new portfolio. Do we need to talk about service models - saas, pass, iaas? maybe? highlevel. 
+</br>Future Iteration: Diagram or interactive Diagram that shows the main deployment models.   
+  
 
