@@ -13,9 +13,9 @@ Now that we've identified our opportunities let's look at modernization options.
 
 
 
+figma interactive choice diagram. 
 
-
-</br>observability tool: Simple online tool: Input criteria: Click: Generate Modernization suggestions.
+observability tool: Simple online tool: Input criteria: Click: Generate Modernization suggestions.
 
 
 <table>
