@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'How Do I Adopt?'
+title: 'Evaluate-Modernization'
 ---
 
 #### A developer led, incremental strategy for adopting microservices gives the best chance for success.

@@ -202,7 +202,7 @@ h1 {
 h2 {
   font-size: 28px;
   font-weight: 400;
-  color: #6FBB7A;
+  color: #3B3B39;
   text-transform: capitalize;
   letter-spacing: .010em;
   margin-top: 30px;
@@ -283,10 +283,10 @@ ul li {
 /* Links
 -------------------------------------------------- */
 a {
-  color: #1EAEDB;
+  color: #3B3B39;
   }
 a:hover {
-  color: #0FA0CE; }
+  color: #3B3B39; }
 
   ::selection {
       background-color: #dddddd;
