@@ -173,11 +173,11 @@ ol.toc li a {
 }
 
 .sidenav .active a, .toc .active a {
-    color: #1EAEDB;
+    color: #6FBB7A;
 }
 
 ol.toc li a:hover {
-    color: #1EAEDB;
+    color: #6FBB7A;
 }
 
  span.toc-heading {
@@ -202,7 +202,7 @@ h1 {
 h2 {
   font-size: 28px;
   font-weight: 400;
-  color: #1EAEDB;
+  color: #6FBB7A;
   text-transform: capitalize;
   letter-spacing: .010em;
   margin-top: 30px;
