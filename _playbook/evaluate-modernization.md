@@ -5,7 +5,7 @@ title: 'Evaluate Modernization'
 
 #### What are my options? 
 
-Now that we've identified our opportunities let's look at modernization options. Let's ease into this. and look at something fun before the real work. The interactive diagram below will help impress on you your pathway based on what you want to do. We start with our three main choices. Do you want to keep, retire or replace your app?  
+Now that we've identified our opportunities let's look at modernization options. Let's ease into this, and look at something fun before the real work. The interactive diagram below will help impress on you your pathway based on what you want to do. We start with our three main choices. Do you want to keep, retire or replace your app?  
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNFooMx2TbdeR6ifyaoDie3%2FEvaluate-Modernization%3Fnode-id%3D2%253A40%26scaling%3Dscale-down" allowfullscreen></iframe>
 
