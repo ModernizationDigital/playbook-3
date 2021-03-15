@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Evaluate-Modernization'
+title: 'Evaluate Modernization'
 ---
 
 #### What are my options? 
@@ -14,7 +14,12 @@ Now that we've identified our opportunities let's look at modernization options.
 
 Ok, so the diagram above is childs play compared to the observabilty tool developed by one team. this powerful, and easy to use online tool will do a complex analysis of you app to help determine your migration options: Input criteria: Click: Generate Modernization suggestions. 
 
+Modernization evaluation will help you determine the modernization readiness of your applications. Use an application questionnaire in the assessment phase to evaluate and rationalize your organization’s application portfolio and determine the value of your apps. The assessment willl help understand how well your organization can support the future state architecture of these applications, after modernization. You will be assessing each of the following.  
 
+business, 
+functional,  
+technical, and  
+financial significance
  
 
 <table>
