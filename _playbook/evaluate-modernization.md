@@ -16,7 +16,7 @@ The diagram above is childs' play compared to the details we need. The link belo
 A Modernization evaluation will help you determine the modernization readiness of your applications. You will be assessing the business, functional, technical, and financial significance  of you application to: 
 <br> - Evaluate your application portfolio 
 <br> - Rationalize your application portfolio 
-<br> - Understand your ability to support future state architecture of your modernized apps.  
+<br> - Understand your ability to support the future state architecture of your modernized apps.  
 
 [Future Iteration: https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-assessing-applications/questionnaire.html] 
 
