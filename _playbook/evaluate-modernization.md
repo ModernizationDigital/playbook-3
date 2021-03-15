@@ -22,8 +22,8 @@ A Modernization evaluation will help you determine the modernization readiness o
 
 
 
-
-
+Ignore below... just keeping it for the table structure so i can copy and paste it where i need it. 
+-----
 <table>
   <tr>
    <td><b>Adoption strategy</b></td>
