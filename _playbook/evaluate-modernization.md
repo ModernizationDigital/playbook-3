@@ -14,9 +14,9 @@ Now that we've identified our opportunities let's look at modernization options.
 The diagram above is childs' play compared to the details we need. The link below will take you to an observability tool developed by one team. this powerful, and easy to use online tool will facilitate a complex analysis of your app to help determine your migration options. [Need to know what this tool does specifically] [Link to Observability tool] 
  
 A Modernization evaluation will help you determine the modernization readiness of your applications. You will be assessing the business, functional, technical, and financial significance  of you application to: 
-<br> Evaluate your application portfolio 
-<br> Rationalize your application portfolio 
-<br> Understand your ability to support future state architecture of your modernized apps.  
+<br> - Evaluate your application portfolio 
+<br> - Rationalize your application portfolio 
+<br> - Understand your ability to support future state architecture of your modernized apps.  
 
 [Future Iteration: https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-assessing-applications/questionnaire.html] 
 
