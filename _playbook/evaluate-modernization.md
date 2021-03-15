@@ -10,7 +10,7 @@ Now that we've identified our opportunities let's look at modernization options.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNFooMx2TbdeR6ifyaoDie3%2FEvaluate-Modernization%3Fnode-id%3D2%253A40%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 
-
+<br>
 
 Ok, so the diagram above is childs play compared to the observabilty tool developed by one team. this powerful, and easy to use online tool will do a complex analysis of you app to help determine your migration options: Input criteria: Click: Generate Modernization suggestions. 
 
