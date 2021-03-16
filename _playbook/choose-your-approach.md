@@ -1,28 +1,18 @@
 ---
 layout: page
-title: 'Evaluate Modernization'
+title: 'Choose Your Modernization Approch'
 ---
 
-#### What are my options? 
+#### Which will have the highest effect and value? 
 
-Now that we've identified our opportunities let's look at modernization options. Let's ease into this, and look at something fun before the real work. The interactive diagram below will help impress on you your pathway based on what you want to do. We start with our three main choices. Do you want to keep, retire or replace your app?  
-<hr />
-<iframe style="border: 0px solid rgba(0, 0, 0, 0.1);" width="800" height="400" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNFooMx2TbdeR6ifyaoDie3%2FEvaluate-Modernization%3Fnode-id%3D2%253A40%26scaling%3Dscale-down" allowfullscreen></iframe>
+What modernization approach will have the highest effect and value to your organization? It's decision time.  In the last section we gave you an overview of the modernization approaches. Sometimes called the 6R's, sometimes the 7R's, ultimately we need to bucket your choice and then break it down. Are you going to retire, optimize or replace your applications. If you are going to optimize, how much effort will you commit?  
 
-- - -
+You can choose the modernization approach that will have the highest effect and value to your organization by mapping the modernization options in terms of their effect on technology, architecture, functionality, cost and risk. 
 
-The diagram above is childs' play compared to the details we need. The link below will take you to an observability tool developed by one team. this powerful, and easy to use online tool will facilitate a complex analysis of your app to help determine your migration options. [Need to know what this tool does specifically] [Link to Observability tool] 
- 
-A Modernization evaluation will help you determine the modernization readiness of your applications. You will be assessing the business, functional, technical, and financial significance  of you application to: 
-<br> - Evaluate your application portfolio 
-<br> - Rationalize your application portfolio 
-<br> - Understand your ability to support the future state architecture of your modernized apps.  
+[Does the observabilty tool do this?  
 
-[Future Iteration: https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-assessing-applications/questionnaire.html] 
+Rearchitecting has medium costs and risks, whereas rebuilding or replacing provides best results with higher costs and risks. The key is to weigh all options to help identify the extent to which each will have the desired effect — with the minimum effort and maximum positive impact. 
 
-
-
-Ignore below... just keeping it for the table structure so i can copy and paste it where i need it. 
 -----
 <table>
   <tr>
