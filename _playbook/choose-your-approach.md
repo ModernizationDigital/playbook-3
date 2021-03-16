@@ -23,8 +23,9 @@ Rearchitecting has medium costs and risks, whereas rebuilding or replacing provi
   </tr>
   <tr>
    <td><b>Retire</b></td>
-   <td></td>
-   <td></td>
+   <td>Optimize</td>
+   <td>Rebuild</td>
+    <td>Do Nothing</td>
   </tr>
   <tr>
    <td><b>Replace</b></td>
