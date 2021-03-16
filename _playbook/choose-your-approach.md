@@ -37,4 +37,4 @@ Rearchitecting has medium costs and risks, whereas rebuilding or replacing provi
 
 ### Technology Strategy
 
-consider incrementally adding technology as the need arises.
+Lift & Shift options, might offer momentum in terms of quick wins, and learnings with minimal effort. Consider incrementally adding technology as the need arises.
