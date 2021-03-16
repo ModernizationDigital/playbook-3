@@ -16,19 +16,21 @@ Rearchitecting has medium costs and risks, whereas rebuilding or replacing provi
 -----
 <table>
   <tr>
-   <td><b>Adoption strategy</b></td>
-   <td>Developer led</td>
-   <td>CTO driven</td>
+   <td><b>Keep</b></td>
+   <td>Optimize</td>
+   <td>Rebuild</td>
+    <td>Do Nothing</td>
   </tr>
   <tr>
-   <td><b>Technology strategy</b></td>
-   <td>Leverage existing stack</td>
-   <td>Replace existing stack</td>
+   <td><b>Retire</b></td>
+   <td></td>
+   <td></td>
   </tr>
   <tr>
-   <td><b>Standards strategy</b></td>
-   <td>Great developer experience</td>
-   <td>Architectural standards</td>
+   <td><b>Replace</b></td>
+   <td></td>
+   <td></td>
+   <td></td>
   </tr>
 </table>
 
