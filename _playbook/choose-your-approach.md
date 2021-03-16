@@ -14,26 +14,7 @@ You can choose the modernization approach that will have the highest effect and 
 Rearchitecting has medium costs and risks, whereas rebuilding or replacing provides best results with higher costs and risks. The key is to weigh all options to help identify the extent to which each will have the desired effect — with the minimum effort and maximum positive impact. 
 
 -----
-<table>
-  <tr>
-   <td><b>Keep</b></td>
-   <td>Optimize</td>
-   <td>Rebuild</td>
-    <td>Do Nothing</td>
-  </tr>
-  <tr>
-   <td><b>Retire</b></td>
-   <td>Optimize</td>
-   <td>Rebuild</td>
-    <td>Do Nothing</td>
-  </tr>
-  <tr>
-   <td><b>Replace</b></td>
-   <td></td>
-   <td></td>
-   <td></td>
-  </tr>
-</table>
+
 
 ### Technology Strategy
 
