@@ -17,9 +17,16 @@ Rearchitecting has medium costs and risks, whereas rebuilding or replacing provi
 <table>
   <tr>
    <td><b>Keep</b></td>
-   <td>Optimize</td>
-   <td>Rebuild</td>
-    <td>Do Nothing</td>
+      <td>Optimize</td>
+        <td>Rehost</td>
+        <td>Encapsulate</td>
+      <td>Rebuild</td>
+      <td>Refactor</td>
+      <td>Rearchitect /Rebuild</td>
+      <td>Do Nothing</td>
+   <td><b>Retire<b></td>
+   <td><b>Replace<b></td>
+    
   </tr>
   <tr>
    <td><b>Retire</b></td>
