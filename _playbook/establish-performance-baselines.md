@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Establish Migration Architect Role'
+title: 'Step 5: Establish performance baselines'
 ---
 
 We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.

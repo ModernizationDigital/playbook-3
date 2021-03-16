@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Choose Single Multi Cloud'
+title: 'Step 3: Choose a single cloud or go multi-cloud '
 ---
 
 We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Perform Necessary Refactoring'
+title: 'Step 7: Perform any necessary refactoring'
 ---
 A thoughtful, incremental approach to adopting microservices can have a significant impact on the success of a microservices architecture. In this chapter, we'll discuss one such incremental approach.
 

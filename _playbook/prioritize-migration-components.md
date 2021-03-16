@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Prioritize Migration Components'
+title: 'Step 6: Prioritize migration components'
 ---
 
 We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.

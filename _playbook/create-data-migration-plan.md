@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Create Data Migration Plan'
+title: 'Step 8: Create a data-migration plan'
 ---
 A thoughtful, incremental approach to adopting microservices can have a significant impact on the success of a microservices architecture. In this chapter, we'll discuss one such incremental approach.
 

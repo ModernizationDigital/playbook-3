@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Review application resource allocation'
+title: 'Step 9: Switch over production'
 ---
 Now we’re ready for the fun part - launching a new microservice to interact with our existing Lobsters monolith application. Do the following:
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Establish Cloud KPI'
+title: 'Step 4: Establish cloud KPIs'
 ---
 
 We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.

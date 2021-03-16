@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Establish Performance Baselines'
+title: 'Step 10: Review application resource allocation'
 ---
 
 We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.
