@@ -8,4 +8,15 @@
   - the-microwizard
   - microservices-in-action
   - architectural-details
-- title: whats-next
+- title: cloud-migration-process
+  children: 
+  - establish-migration-architect-role  
+  - choose-level-cloud-integration  
+  - choose-single-multi-cloud  
+  - establish-cloud-kpi 
+  - establish-performance-baselines  
+  - prioritize-migration-components  
+  - perform-necessary-refactoring  
+  - create-data-migration-plan  
+  - switch-over-production  
+  - review-application-resource-allocation  
