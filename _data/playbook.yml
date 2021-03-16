@@ -9,13 +9,13 @@
   - microservices-in-action
   - architectural-details
 - title: whats-next
-- title: from-monolith-to-microservices
+- title: new-content
   children:
-  - the-microwizard
-  - microservices-in-action
-  - architectural-details
-  - title: from-monolith-to-microservices
+  - not-written-yet
+  - not-written-yet
+  - not-written-yet
+- title: new-content
   children:
-  - the-microwizard
-  - microservices-in-action
-  - architectural-details
+  - not-written-yet
+  - not-written-yet
+  - not-written-yet
