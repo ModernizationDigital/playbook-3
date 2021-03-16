@@ -2,7 +2,7 @@
   children:
   - application-rationalization
   - evaluate-modernization
-  - how-your-stack-changes
+  - choose-your-approach
 - title: from-monolith-to-microservices
   children:
   - the-microwizard
