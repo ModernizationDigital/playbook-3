@@ -38,3 +38,24 @@ As previously discussed, organizations should incrementally adopt microservices,
 Netflix is deployed on Amazon Web Services. Netflix used a deployment infrastructure common to AWS deployments: [AWS Auto Scaling Groups for resource management](http://techblog.netflix.com/2012/01/auto-scaling-in-amazon-cloud.html), with individual [microservices packaged into AMIs](http://techblog.netflix.com/2013/03/ami-creation-with-aminator.html). Netflix then uses a homegrown set of technologies for the service layer, including [Eureka](https://github.com/Netflix/eureka) and [Hystrix](https://github.com/Netflix/Hystrix).
 
 In the next few chapters, we'll take a look at some examples that illustrate where you might want to start when adopting a microservices architecture.
+
+<table>
+  <tr>
+   <td><b>Keep</b></td>
+   <td>Optimize</td>
+   <td>Rebuild</td>
+    <td>Do Nothing</td>
+  </tr>
+  <tr>
+   <td><b>Retire</b></td>
+   <td>Optimize</td>
+   <td>Rebuild</td>
+    <td>Do Nothing</td>
+  </tr>
+  <tr>
+   <td><b>Replace</b></td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </tr>
+</table>
