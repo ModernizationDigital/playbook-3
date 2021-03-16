@@ -6,8 +6,8 @@ title: 'Choose Your Approch'
 #### Which will have the highest effect and value? 
 
 What modernization approach will have the highest effect and value to your organization? It's decision time.  In the last section we gave you an overview of the modernization approaches. Sometimes called the 6R's, sometimes the 7R's, ultimately we need to bucket your choice and then break it down. Are you going to retire, optimize or replace your applications. If you are going to optimize, how much effort will you commit?  
-i have to fix the size of this. it's too big
-![ChooseYourApproach|800x550, 20%]({{site.baseurl}}/images/ChooseYourApproach.png) 
+i have to fix 
+![ChooseYourApproach]({{site.baseurl}}/images/ChooseYourApproach.png =700x500) 
 You can choose the modernization approach that will have the highest effect and value to your organization by mapping the modernization options in terms of their effect on technology, architecture, functionality, cost and risk. 
 
 [Does the observabilty tool do this?  
