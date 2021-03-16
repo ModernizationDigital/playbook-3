@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Choose Your Modernization Approch'
+title: 'Choose Your Approch'
 ---
 
 #### Which will have the highest effect and value? 
