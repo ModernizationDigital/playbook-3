@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'From Monolith to Microservices'
+title: 'Perform Necessary Refactoring'
 ---
 A thoughtful, incremental approach to adopting microservices can have a significant impact on the success of a microservices architecture. In this chapter, we'll discuss one such incremental approach.
 

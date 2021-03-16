@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Microservices In Action'
+title: 'Review application resource allocation'
 ---
 Now we’re ready for the fun part - launching a new microservice to interact with our existing Lobsters monolith application. Do the following:
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'What''s Next'
+title: 'Establish Migration Architect Role'
 ---
 
 We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.
