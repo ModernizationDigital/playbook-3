@@ -21,7 +21,7 @@ A Data lake is a type of data repository that stores large and varied sets of ra
 
 <hr />
 <video width="320" height="240" controls>
-  <source src="https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6/" type="video/mp4">
+  <source src="https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6/">
 </video>
 ### What do you have
 
