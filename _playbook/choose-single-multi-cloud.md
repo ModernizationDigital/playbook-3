@@ -1,3 +1,9 @@
+---
+layout: page
+title: 'Step 3: Choose to go Single or Multi-Cloud'
+---
+
+
 Now we have to get you to decide if you want your modernized applications to run on a single cloud, multi-cloud or cloud agnostic. What? The decisions never end!! Below we have a chart to help make this a bit easier to understand. 
 - - - 
 
