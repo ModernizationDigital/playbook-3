@@ -4,7 +4,7 @@ title: 'Types of Data Storages'
 ---
 I could go on and on and on about data, but I bet you're bored already. So lets' just keep it succinct. There are multiple types of data storage you might need. The big buckets are: object, block & file, and they can all be stored in Data Lakes.  
 
-https://bl.ocks.org/HarryStevens/4fba7a62b0ff302ef49768198d4c54c6
+i need to figure out how to put this in here. <embed> https://bl.ocks.org/HarryStevens/4fba7a62b0ff302ef49768198d4c54c6</embed>
 
 ### Data Lakes 
 
