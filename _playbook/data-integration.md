@@ -9,6 +9,10 @@ Before we decide what service you need, it is good to think about data. Is the a
 Are you using it regularly ? Do you want to keep it? Do you want to keep metadata? 
 Get out of the data center business and shift from a CapEx to OpEx model of IT services? 
 
+<hr />
+<iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
+- - -
+
 I could go on and on and on about data, but I bet you're bored already. So lets just keep it succint. There are multiple types of data storage you might need. The big buckets are: 
 
 ### Why modernize your data? 
@@ -21,8 +25,13 @@ A Data lake is a type of data repository that stores large and varied sets of ra
 
 <hr />
 <iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
+- - -
 
-[![Snowmobile](http://img.youtube.com/vi/https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6//0.jpg)]( "Snowmobile")
+
+<hr />
+<iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
+
+[![Snowmobile](https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6//0.jpg)]( "Snowmobile")
 
 <hr />
 <iframe width="560" height="315" src="https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6/" frameborder="0" allowfullscreen></iframe>
