@@ -33,8 +33,11 @@ Snowmobile: Watch this: maybe we can link to this in our data section.
 
 <hr />
 <hr />
+
+[![Snowball](https://www.youtube.com/watch?v=8vQmTZTq7nw.png)](hhttps://www.youtube.com/watch?v=8vQmTZTq7nw "Snowball")
+
 <video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=8vQmTZTq7nw" type="video/mp4">
+  <source src="" type="video/mp4">
 </video>
 <iframe style="border: 0px solid rgba(0, 0, 0, 0.1);" width="800" height="400" src="" allowfullscreen></iframe>
 
