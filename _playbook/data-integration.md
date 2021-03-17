@@ -5,18 +5,16 @@ title: 'Can we talk about data?'
 
 #### Data and Modernization
 
-Before we decide what service you need, it is good to think about data. Is the application housing data? What kind of data do you have? VM's | Databases | Unstructured 
-Are you using it regularly ? Do you want to keep it? Do you want to keep metadata? 
-Get out of the data center business and shift from a CapEx to OpEx model of IT services? 
+Data fuels digital transformation. Legacy applications can have a lot of data. Gigabytes, terabytes and even pedabytes. When you modernize your applications, you can make use of cloud native technology. Cloud native apps have phenomenal capabilities to analyze data. Proper use of cloud data analysis can increase business insights which can drive innovation and success. How can we get our data to the cloud? Below is a few fun videos to show you how large data transfers can happen, and then this section will also talk about the ways you might want to store your data, and some proven data modernization solutions.  
 
 <hr />
 <iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
 - - -
 
 <hr />
-<iframe width= 100% height= 100% src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
+<iframe width=100% height=100% src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
 - - -
-![Iteration Cycles]({{site.baseurl}}/images/data.html) 
+![Iteration Cycles]({{site.baseurl}}/images/index.html) 
 
 I could go on and on and on about data, but I bet you're bored already. So lets just keep it succint. There are multiple types of data storage you might need. The big buckets are: 
 
