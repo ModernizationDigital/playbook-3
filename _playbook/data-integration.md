@@ -2,6 +2,9 @@
 layout: page
 title: 'Let's talk about data'
 ---
+
+#### header
+
 Before we decide what service you need, it is good to think about data. Is the application housing data? What kind of data do you have? VM's | Databases | Unstructured 
 Are you using it regularly ? Do you want to keep it? Do you want to keep metadata? 
 Get out of the data center business and shift from a CapEx to OpEx model of IT services? 
