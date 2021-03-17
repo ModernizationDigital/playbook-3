@@ -5,7 +5,11 @@ title: 'Can we talk about data?'
 
 #### Data and Modernization
 
-Data fuels digital transformation. Legacy applications can have a lot of data. Gigabytes, terabytes and even pedabytes. When you modernize your applications, you can make use of cloud native technology. Cloud native apps have phenomenal capabilities to analyze data. Proper use of cloud data analysis can increase business insights which can drive innovation and success. How can we get our data to the cloud? Below is a few fun videos to show you how large data transfers can happen, and then this section will also talk about the ways you might want to store your data, and some proven data modernization solutions.  
+Data fuels digital transformation. Legacy applications can have a lot of data. Gigabytes, terabytes and even pedabytes. When you modernize your applications, you can make use of cloud native technology. Cloud native apps have phenomenal capabilities to analyze data. Proper use of cloud data analysis can increase business insights which can drive innovation and success. 
+
+Which leads to: How can we get our data to the cloud? 
+
+Below is a few fun videos to show you how large data transfers can happen, and then this section will also talk about the ways you might want to store your data, and some proven data modernization solutions.  
 
 <hr />
 <iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
@@ -18,17 +22,9 @@ Data fuels digital transformation. Legacy applications can have a lot of data. G
 
 I could go on and on and on about data, but I bet you're bored already. So lets just keep it succint. There are multiple types of data storage you might need. The big buckets are: 
 
-### Why modernize your data? 
-Legacy applications can have a lot of data. That data might be out of date. Maybe you don't need it? Who wants to be the person to get rid of it. So you're storing all this data, you might need to use. You really don't have any use for it. You can't use it.  
-
-This is where modernization comes in. Data fuels digital transformation. So this means you need to store your data in a consumeable way. Cloud native apps have phenomenal capabilities to analyze data. So how do you get it there?  
-
 ### Data Lakes 
 A Data lake is a type of data repository that stores large and varied sets of raw data in its native format. This allows you a centralized area for your data to run thru. Your data can come into your data lake from multiple sources. If properly organized it can be used to create consistent data to measure against. This is important because cloud native apps have phenomenal capabilities to analyze that data anytime you need it. Proper use of cloud data analysis can increase business insights which can drive innovation and success.  
 
-<hr />
-<iframe width='800' height='450' src="https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6/" frameborder="0" allowfullscreen></iframe>
-- - -
 
 ### What do you have
 

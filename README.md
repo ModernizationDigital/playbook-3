@@ -10,3 +10,6 @@ To build HTML, install Jekyll (http://jekyllrb.com/), and then type
 `jekyll build` in the main directory.
 
 For local development, run `gem install && jekyll serve` and point your browser to http://localhost:4000/playbook/.
+
+# Welcome, I've been expecting you.
+![](./data.html)
