@@ -5,7 +5,7 @@
   - choose-your-approach
 - title: data-integration
   children:
-  - the-microwizard
+  - data-solutions
   - microservices-in-action
   - architectural-details
 - title: cloud-migration-process
