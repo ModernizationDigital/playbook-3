@@ -25,6 +25,8 @@ A Data lake is a type of data repository that stores large and varied sets of ra
 # Welcome, I've been expecting you.
 ![data](images/data.html)
 
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
 ### What do you have
 
 Is there a lot of data? Do you need a snowball? If so they may need to co-ordinate time frames; Do they need more than one SnowBall. Most likely in Canada there are limited Snowballs in use. So you will need to make sure they are available. And you need to make sure you have the infrastructure in place to store and use Snowball. Or do you need SNOWMOBILE!!! ;-) 
