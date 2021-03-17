@@ -24,7 +24,8 @@ I could go on and on and on about data, but I bet you're bored already. So lets 
 
 ### Data Lakes 
 A Data lake is a type of data repository that stores large and varied sets of raw data in its native format. This allows you a centralized area for your data to run thru. Your data can come into your data lake from multiple sources. If properly organized it can be used to create consistent data to measure against. This is important because cloud native apps have phenomenal capabilities to analyze that data anytime you need it. Proper use of cloud data analysis can increase business insights which can drive innovation and success.  
-
+# Welcome, I've been expecting you.
+![](./data.html)
 
 ### What do you have
 
