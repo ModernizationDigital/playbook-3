@@ -7,7 +7,7 @@ title: 'Can we talk about data?'
 
 Data fuels digital transformation. Legacy applications can have a lot of data. Gigabytes, terabytes, pedabytes and exabytes! When you modernize your applications, you can make use of cloud native technology. Cloud native apps have phenomenal capabilities to analyze data. Proper use of cloud data analysis can increase business insights which can drive innovation and success. Sign me up!
 
-Then how do we get our data to the cloud? The exciting video below shows how some large data transfers can happen, afterwhich this section will talk about ways to store your data, and some proven data modernization solutions.  
+Then how do we get our data to the cloud? The exciting video below shows how some large data transfers can happen, after that we will talk about ways to store your data, and some proven data modernization solutions.    
 
 <hr />
 <iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
