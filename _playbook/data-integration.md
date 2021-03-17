@@ -48,6 +48,9 @@ Snowmobile: Watch this: maybe we can link to this in our data section.
 
 - - -
 
+
+[![Video Label](http://img.youtube.com/vi/TheVideoID/0.jpg)](http://www.youtube.com/watch?v=8vQmTZTq7nw)
+
 AWS re:Invent 2016: Move Exabyte-Scale Data Sets with AWS Snowmobile 
 
  
