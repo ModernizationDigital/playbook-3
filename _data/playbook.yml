@@ -5,9 +5,8 @@
   - choose-your-approach
 - title: data-integration
   children:
+  - data-storage
   - data-solutions
-  - microservices-in-action
-  - architectural-details
 - title: cloud-migration-process
   children: 
   - establish-migration-architect-role  
