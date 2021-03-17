@@ -24,7 +24,11 @@ A Data lake is a type of data repository that stores large and varied sets of ra
   <source src="">
 </video>
 
-[![Snowmobile](http://img.youtube.com/vi/https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6//0.jpg)](https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6/ "Snowmobile")
+[![Snowmobile](http://img.youtube.com/vi/https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6//0.jpg)]( "Snowmobile")
+
+<hr />
+<iframe width="560" height="315" src="https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6/" frameborder="0" allowfullscreen></iframe>
+- - -
 ### What do you have
 
 Is there a lot of data? Do you need a snowball? If so they may need to co-ordinate time frames; Do they need more than one SnowBall. Most likely in Canada there are limited Snowballs in use. So you will need to make sure they are available. And you need to make sure you have the infrastructure in place to store and use Snowball. Or do you need SNOWMOBILE!!! ;-) 
@@ -32,9 +36,10 @@ Is there a lot of data? Do you need a snowball? If so they may need to co-ordina
 Snowmobile: Watch this: maybe we can link to this in our data section.  
 
 <hr />
-<hr />
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
+- - -
 
-[![Snowball](https://www.youtube.com/watch?v=8vQmTZTq7nw.png)](hhttps://www.youtube.com/watch?v=8vQmTZTq7nw "Snowball")
+[![Snowball](https://www.youtube.com/watch?v=8vQmTZTq7nw.png)](https://www.youtube.com/watch?v=8vQmTZTq7nw "Snowball")
 
 <video width="320" height="240" controls>
   <source src="" type="video/mp4">
