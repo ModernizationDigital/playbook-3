@@ -20,9 +20,7 @@ This is where modernization comes in. Data fuels digital transformation. So this
 A Data lake is a type of data repository that stores large and varied sets of raw data in its native format. This allows you a centralized area for your data to run thru. Your data can come into your data lake from multiple sources. If properly organized it can be used to create consistent data to measure against. This is important because cloud native apps have phenomenal capabilities to analyze that data anytime you need it. Proper use of cloud data analysis can increase business insights which can drive innovation and success.  
 
 <hr />
-<video width="320" height="240" controls>
-  <source src="">
-</video>
+<iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
 
 [![Snowmobile](http://img.youtube.com/vi/https://bl.ocks.org/HarryStevens/raw/4fba7a62b0ff302ef49768198d4c54c6//0.jpg)]( "Snowmobile")
 
@@ -52,14 +50,7 @@ Snowmobile: Watch this: maybe we can link to this in our data section.
 [![Video Label](http://img.youtube.com/vi/TheVideoID/0.jpg)](http://www.youtube.com/watch?v=8vQmTZTq7nw)
 
 AWS re:Invent 2016: Move Exabyte-Scale Data Sets with AWS Snowmobile 
-
- 
-
-
- 
-
 This one is really great too! It's a little more detailed.  
-
 How Amazon Uses Explosive-Resistant Devices To Transfer Data To AWS 
 
 
