@@ -28,11 +28,5 @@ AWS re:Invent 2016: Move Exabyte-Scale Data Sets with AWS Snowmobile
 This one is really great too! It's a little more detailed.  
 How Amazon Uses Explosive-Resistant Devices To Transfer Data To AWS 
 
-hr />
-<iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
-- - -
-
-<iframe style="border: 0px solid rgba(0, 0, 0, 0.1);" width="800" height="400" src="https://d3js.org/d3.v5.min.js" allowfullscreen></iframe>
-
-![applicationRationalization]({{site.baseurl}}/images/data.html) 
-
+<hr />
+<iframe width='800' height='450' src="https://www.youtube.com/watch?v=H3_ZqnqLyVo" frameborder="0" allowfullscreen></iframe>

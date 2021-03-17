@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Types of Data Storage'
+title: 'Types of Data Storages'
 ---
 Now we’re ready for the fun part - launching a new microservice to interact with our existing Lobsters monolith application. Do the following:
 
