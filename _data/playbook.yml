@@ -3,7 +3,7 @@
   - application-rationalization
   - evaluate-modernization
   - choose-your-approach
-- title: from-monolith-to-microservices
+- title: data-integration
   children:
   - the-microwizard
   - microservices-in-action
