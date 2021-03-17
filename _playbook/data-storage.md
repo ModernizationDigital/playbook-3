@@ -2,7 +2,8 @@
 layout: page
 title: 'Types of Data Storages'
 ---
-Now we’re ready for the fun part - launching a new microservice to interact with our existing Lobsters monolith application. Do the following:
+I could go on and on and on about data, but I bet you're bored already. So lets just keep it succint. There are multiple types of data storage you might need. The big buckets are: 
+
 
 1. In the base deployment of the Microwizard example, visit <a href="http://127.0.0.1:3000/popular">http://127.0.0.1:3000/popular</a>. You'll notice that no users are displayed and the string "NO SERVICES AVAILABLE" is shown. This is because no services are deployed by default.
 
