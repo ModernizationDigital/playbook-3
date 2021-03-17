@@ -18,8 +18,3 @@ Then how do we get our data to the cloud? These exciting videos below show how s
 That's a lot of data. Chances are you might not need something as big as Snowmobile, however it is possible you might need a Snowball. Watch the video below to learn about this fascinating data transfer. Remember, if you are thinking of using either of these, you will need to co-ordinate things in advance. This is because there are limited Snowballs in use. So you will need to make sure what your require is available, and you need to make sure you have the infrastructure in place to store and use Snowball while you load your data.  
 <hr />
 <iframe width='800' height='450' src="https://www.youtube.com/embed/H3_ZqnqLyVo" frameborder="0" allowfullscreen></iframe>
-- - -
-<hr />
-<iframe width='800' height='450' src="https://d3js.org/d3.v5.min.js/embed" frameborder="0" allowfullscreen></iframe>
-- - -
-
