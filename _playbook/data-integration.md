@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Let's talk about data'
+title: 'Can we talk about data?'
 ---
 
 #### header
