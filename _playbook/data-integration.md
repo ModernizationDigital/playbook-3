@@ -16,6 +16,7 @@ Get out of the data center business and shift from a CapEx to OpEx model of IT s
 <hr />
 <iframe width= 100% height= 100% src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
 - - -
+![Iteration Cycles]({{site.baseurl}}/images/data.html) 
 
 I could go on and on and on about data, but I bet you're bored already. So lets just keep it succint. There are multiple types of data storage you might need. The big buckets are: 
 
