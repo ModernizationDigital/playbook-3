@@ -13,19 +13,10 @@ Then how do we get our data to the cloud? The exciting video below shows how som
 <iframe width='800' height='450' src="https://www.youtube.com/embed/8vQmTZTq7nw" frameborder="0" allowfullscreen></iframe>
 - - -
 
-<hr />
-<iframe width=100% height=100% src="https://d3js.org/d3.v5.min.js" frameborder="0" allowfullscreen></iframe>
-- - -
-![Iteration Cycles]({{site.baseurl}}/images/index.html) 
-
 I could go on and on and on about data, but I bet you're bored already. So lets just keep it succint. There are multiple types of data storage you might need. The big buckets are: 
 
 ### Data Lakes 
 A Data lake is a type of data repository that stores large and varied sets of raw data in its native format. This allows you a centralized area for your data to run thru. Your data can come into your data lake from multiple sources. If properly organized it can be used to create consistent data to measure against. This is important because cloud native apps have phenomenal capabilities to analyze that data anytime you need it. Proper use of cloud data analysis can increase business insights which can drive innovation and success.  
-# Welcome, I've been expecting you.
-![data](images/data.html)
-
-<script src="https://d3js.org/d3.v5.min.js"></script>
 
 ### What do you have
 
