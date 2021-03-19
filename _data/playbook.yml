@@ -3,6 +3,11 @@
   - application-rationalization
   - evaluate-modernization
   - choose-your-approach
+- title: containers
+  children:
+  - containers-what-are-they
+  - containers-how-do-they-work
+  - containers-implementation
 - title: data-integration
   children:
   - data-storage
