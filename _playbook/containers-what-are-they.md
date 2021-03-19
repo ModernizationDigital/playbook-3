@@ -3,19 +3,20 @@ layout: page
 title: 'What are they'
 ---
 
-We're working on more chapters to the Playbook, focusing on how to design your microservices for resilience.
+Maybe this is the intro?
 
-In the meantime:
+Well, let's think of this as simply as possible. A container is something you put something else in. If you were to go for a picnic it would be helpful to have a container that held everything you needed to enjoy your lunch. The food, the utensils, your napkin. Your drink. At lunchtime you open your picnic basket and you can start eating right away.  
 
-* Feel free to contribute to the <a href="https://github.com/datawire/playbook">Playbook on GitHub</a> by filing an issue or submitting a PR.
-* Contribute and give feedback on the <a href="https://github.com/datawire/microwizard">Microwizard</a>.
-* Check out <a href="http://bakerstreet.io">Baker Street</a>, and give us feedback!
-* Datawire is building additional tools to address some of the other challenges in developing microservices. Visit <a href="http://www.datawire.io">datawire.io</a> for more information.
+[picnic basket] 
 
-## More Reading
+Containers in the cloud computing environment also hold everything you would need to run that specific application. Lunch containers can come in all different sizes, so now we have to shift our focus to think of a container that is always the same.  
 
-There's lots of great writing on microservices. Here are some of our favorites:
+### Containers in Shipping
 
-* <a href="http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html">Randy Shoup</a> on microservices at eBay and Google
-* <a href="http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html">Phil Calçado</a> on microservices at SoundCloud
-* <a href="http://engineeringblog.yelp.com/2014/11/scaling-elasticsearch-to-hundreds-of-developers.html">Joseph Lynch</a> on Elastic Search at Yelp
+In the late 1960's the International Organization for Standardization (commonly referred to as ISO) established standards for shipping container dimensions via ISO 668. Why do you think they standardized those shipping containers? 
+
+Containers had to be standardized so that they can be efficiently stacked. Consistant sizes allow ships, trains, trucks and cranes at the ports can be specially fitted or built to a single size specification. This efficiency saves millions of dollars, and time. This makes shipping and transporation easier!  https://www.worldshipping.org/about-the-industry/containers 
+
+[cargo ship] [containers showing dimensions] 
+
+Like the shipping industry, Cloud Computing has standardized containers. And this makes everyones job easier.  
