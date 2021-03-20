@@ -5,7 +5,7 @@
   - choose-your-approach
 - title: containers
   children:
-  - containers-what-are-they
+  - containers-standardized
   - containers-how-do-they-work
   - containers-implementation
 - title: data-integration
