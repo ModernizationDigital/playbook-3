@@ -11,6 +11,6 @@ Containers had to be standardized so that they can be efficiently stacked. Consi
 
 [cargo ship] [containers showing dimensions] [show image of a 1900 cargo ship with all the cargo of diff sizes]
 
-Of Interest: The width of the Panama canal drives the standardized size the ships are built. Gobal warming has opened a new trade route above Canada. Last year about 20 oversized ships made the journey above the top of Canada. This is the first time those oversized ships have been able to reach the west coast of North America. Now people can build bigger boats. Things just got trickier. The US gave the Canal back to Panama on the stipulations that everyone could use the route. The new Canadian route has no such agreement. Who's King of the North now?  [Canadian Flag waving on a Freighter Ship]
+Of Interest: The width of the Panama canal drives the standardized size the ships are built. Gobal warming has opened a new trade route above Canada. Last year about 20 oversized ships made the journey above the top of Canada. This is the first time those oversized ships have been able to reach the west coast of North America. Now people can build bigger boats. Things just got trickier. The US gave the Canal back to Panama on the stipulations that everyone could use the route. The new Canadian route has no such agreement. Is this the real King of the North?  [Canadian Flag waving on a Freighter Ship]
 
 Like the shipping industry, Cloud Computing has standardized containers. And this makes everyones job easier.  
