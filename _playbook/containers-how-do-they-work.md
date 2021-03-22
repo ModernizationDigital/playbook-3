@@ -9,6 +9,7 @@ animated diagrams
 ### Monolith
 
 To understand how containers work, let's look at an app in a monolith environment, possibly this is your current environment. Right now your app may sit in a physical server in your office. If you move it there are many things to reconfigure. Dependent on many things, and it can break easily. This can be thought of as a 1 to many relationship. One app connected to many things. To run your app this way you need physical infrastructure. This is IAAS
+![ApplicationEnvironments]({{site.baseurl}}/images/appEnvironments.png) 
 
 ### Virtual Machines
 A virtual machine is a computer file, that behaves like an actual computer. A computer within a computer. You can have many VM's on one computer. Each is its' own little computer. However a VM is very heavy, it needs a full configuration, it can be gigabytes in size, it's dependent on a physical machine, and it can be difficult to move. It is still running on your monolith infrastructure. A Virtual Machine is still a one to many relationship and IAAS.  
