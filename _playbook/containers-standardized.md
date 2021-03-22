@@ -9,7 +9,7 @@ In the late 1960's the International Organization for Standardization (commonly 
 
 Containers had to be standardized so that they can be efficiently stacked. Consistent sizes allow ships, trains, trucks and cranes at the ports to be specially fitted or built to a single size specification. This efficiency saves millions of dollars, and time. This makes shipping and transportation easier! [Worldshipping](https://www.worldshipping.org/about-the-industry/containers). The enormous impact of standardization in shipping, could give it weight as a modern world revolutionary feat. 
 
-Like the shipping industry, Cloud Computing has standardized containers. And this makes everyones job easier.  
+Like the shipping industry, Cloud Computing has standardized containers. And this makes everyones' job easier.  
 
 [cargo ship] [containers showing dimensions] [show image of a 1900 cargo ship with all the cargo of diff sizes]
 
