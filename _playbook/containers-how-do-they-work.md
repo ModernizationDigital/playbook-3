@@ -12,9 +12,9 @@ A virtual machine [column 2 in the image below] is a computer file, that behaves
 ![ApplicationEnvironments]({{site.baseurl}}/images/appEnvironments.png) 
 
 ### Containers
-A container is where things start to change [column 3 in the image above]. It is a standardized package capable of running an application with out the full operating system. It can be run on any platform. When you run a container, you don't install anything!  It doesn't need servers, or physical hardware. It's size is megabytes, and this makes it very portable. This app state is considered a one to one relationship. It only needs itself. Serverless. 
+A container is where things start to change [column 3 in the image above]. It is a standardized package capable of running an application with out the full operating system. It can be run on any platform. When you run a container, you don't install anything! It doesn't need servers, or physical hardware. It's size is megabytes, and this makes it very portable. This app state is considered a - one to one relationship. It only needs itself. 
 
-Containers are used to build blocks, which help in producing operational efficiency, version control, developer productivity and environmental consistency. All of this assures the user of reliability, consistency, and speed regardless of the distributed platform. The infrastructure is enhanced since it provides more control over the granular activities on resources. Using a container allows you to take advange of the cloud capabilities of storage, information security, availability and elasticity.
+Containers are used to build blocks, which help in producing <body style="strong"> operational efficiency</body>, version control, developer productivity and environmental consistency. All of this assures the user of reliability, consistency, and speed regardless of the distributed platform. The infrastructure is enhanced since it provides more control over the granular activities on resources. Using a container allows you to take advange of the cloud capabilities of storage, information security, availability and elasticity.
 
 ### Serverless
 Now it becomes a little harder do understand. It's just code. And somehow the internet knows how to organize it. And it makes everything faster and more seemless. [column 4 in the image above]
