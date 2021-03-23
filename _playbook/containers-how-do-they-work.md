@@ -10,7 +10,6 @@ To understand how containers work, let's look at an app in a monolith environmen
 ### Virtual Machines
 A virtual machine [column 2 in the image below] is a computer file, that behaves like an actual computer. A computer within a computer. You can have many VM's on one computer. Each is its' own little computer. However a VM is very heavy, it needs a full configuration, it can be gigabytes in size, it's dependent on a physical machine, and it can be difficult to move. It is still running on your monolith infrastructure. A Virtual Machine is still - one to many relationship and IAAS.  
 ![ApplicationEnvironments]({{site.baseurl}}/images/appEnvironments.png) 
-
 ### Containers
 A container is where things start to change [column 3 in the image above]. It is a standardized package capable of running an application with out the full operating system. It can be run on any platform. When you run a container, you don't install anything! It doesn't need servers, or physical hardware. It's size is megabytes, and this makes it very portable. This app state is considered a - one to one relationship. It only needs itself. 
 
