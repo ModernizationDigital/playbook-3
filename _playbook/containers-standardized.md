@@ -7,7 +7,7 @@ title: 'Standardized Containers'
 
 In the late 1960's the International Organization for Standardization (commonly referred to as ISO) established standards for shipping container dimensions via ISO 668. Why do you think they standardized those shipping containers? 
 
-Containers had to be standardized so that they can be efficiently stacked. Consistent sizes allow ships, trains, trucks and cranes at the ports to be specially fitted or built to a single size specification. This efficiency saves millions of dollars, and time. This makes shipping and transportation easier! [Worldshipping](https://www.worldshipping.org/about-the-industry/containers). The enormous impact of standardization in shipping, could give it weight as a modern world revolutionary feat. 
+This standardization allowed the containers to be efficiently stacked. Consistent sizes also allow ships, trains, trucks and cranes at the ports to be specially fitted or built to a single size specification. This efficiency saves millions of dollars, and time. This makes shipping and transportation easier! [Worldshipping](https://www.worldshipping.org/about-the-industry/containers). The enormous impact of standardization in shipping, could give it weight as a modern world revolutionary feat. 
 ![StandardizedShippingContainer]({{site.baseurl}}/images/shipping.png) 
 Like the shipping industry, Cloud Computing has standardized containers. And this makes everyones' job easier.  
 
