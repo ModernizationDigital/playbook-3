@@ -11,9 +11,7 @@ The first thing to determine is Do you want to keep your application? If the ans
 
 ### Application migration
 
-Containers make it easy to package your entire application and move it to the cloud without needing to make any code changes. 
-
-If you want to keep your app, there isn't a prebuilt solution and you don't have the resources, or reasons to rebuild it. This would be a good solution.  
+Containers make it easy to package your entire application and move it to the cloud without needing to make any code changes. If you want to keep your app, there isn't a prebuilt solution and you don't have the resources, or reasons to rebuild it. This would be a good solution.  
 
 - - - 
 
@@ -29,3 +27,5 @@ If you want to keep your app, there isn't a prebuilt solution and you don't have
 |  more efficiencieny development technologies | tech managed by gui (excel, ms axis) |
 |  reduce tools your dev teams need            |                            |
 |  can still sit on prem                       |                            |
+
+<br>
