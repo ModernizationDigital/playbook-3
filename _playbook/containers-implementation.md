@@ -17,8 +17,15 @@ If you want to keep your app, there isn't a prebuilt solution and you don't have
 
 - - - 
 
-|  What they can do for you  | What they won't do         |
-| -------------------------- | -------------------------- |
-|                            |                            |
-|                            |                            |
-|                            |                            |
+|  What they can do for you                    | What they won't do         |
+| --------------------------                   | -------------------------- |
+|  can move your app to the cloud              |                            |
+|  give you portability                        |                            |
+|  allow your app to use cloud elasticity (scalability) |                            |
+|  allows your developers to innovate          |                            |
+|  achieve greater efficiency                  |                            |
+|  allow you to attract innovative developers  |                            |
+|  aligns w/workforce trends.                  |                            |
+|  more efficiencieny development technologies |                            |
+|  reduced tools                               |                            |
+|  can still sit on prem                       |                            |
