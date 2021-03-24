@@ -19,13 +19,13 @@ If you want to keep your app, there isn't a prebuilt solution and you don't have
 
 |  What they can do for you                    | What they won't do         |
 | --------------------------                   | -------------------------- |
-|  can move your app to the cloud              |                            |
-|  give you portability                        |                            |
-|  allow your app to use cloud elasticity (scalability) |                            |
-|  allows your developers to innovate          |                            |
-|  achieve greater efficiency                  |                            |
-|  allow you to attract innovative developers  |                            |
-|  aligns w/workforce trends.                  |                            |
-|  more efficiencieny development technologies |                            |
-|  reduced tools                               |                            |
+|  can move your app to the cloud              | does not pay your technical debt  |
+|  give you portability                        | does not fix an underlying poor infrastructure|
+|  allow your app to use cloud elasticity (scalability) | doesn't make app cloud native |
+|  allows your developers to innovate          | if your app is broken it will still be broken |
+|  achieve greater efficiency                  | liscence dependencies - might prevent use |
+|  allow you to attract innovative developers  | hardward dependencies - might prevent use |
+|  aligns w/workforce trends.                  | technology dependencies - some tech is too old |
+|  more efficiencieny development technologies | tech managed by gui (excel, ms axis) |
+|  reduce tools your dev teams need            |                            |
 |  can still sit on prem                       |                            |
