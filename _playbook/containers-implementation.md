@@ -7,15 +7,14 @@ title: 'Implementation'
 
 At a high level, let's just do a pulse check and see if containers are the answer to all your problems. Have you looked at [Link to section about Keep, Retire, Repurchase]? If you have decided you want to keep your app, let's keep going and see how this could help you. 
 
-[] 
-[] 
-
 \### Project status
 
 [ ] Do you want to keep your application
 [ ] Do you want this done fast?
-[ ] Beta Testing
-[ ] Production
+[ ] Is your investment availablity Low cost/Low effort?
+[ ] Is your app out of date?
+[ ] Have you looked for any SAAS application out there that could do what your app does? 
+[ ] Do you have hardware sourcing limitations?
 
 Some times older applications have outdated technologies, licencing agreement that limit it's re-architecture and still you need to move it to the cloud to take advantage of some of the cloud capabilies, like scaling. 
 
