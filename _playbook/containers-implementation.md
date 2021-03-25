@@ -10,6 +10,17 @@ At a high level, let's just do a pulse check and see if containers are the answe
 [] Do you want to keep your application
 [] Do you want this done fast?
 
+\### Project status
+
+- [x] Design
+- [x] Mockups
+- [x] Development
+- [x] Unit testing
+- [ ] QA
+- [ ] Stage
+- [ ] Beta Testing
+- [ ] Production
+
 Some times older applications have outdated technologies, licencing agreement that limit it's re-architecture and still you need to move it to the cloud to take advantage of some of the cloud capabilies, like scaling. 
 
 Have you looked at what is available for modernization. Is there anything else out there that can do what your app can do? An already built SAAS?
