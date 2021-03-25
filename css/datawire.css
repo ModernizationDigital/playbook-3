@@ -22,9 +22,20 @@
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 
+md-checkbox {
+  margin: 8px;
+  cursor: pointer;
+  padding-left: 18px;
+  padding-right: 0;
+  line-height: 26px;
+  min-width: 18px;
+  min-height: 18px;
+}
+
 md-checkbox.md-checked.green .md-icon {
   background-color: rgba(0, 255, 0, 0.87);
  }
+
 html {
   font-size: 62.5%; }
 
