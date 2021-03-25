@@ -13,7 +13,7 @@ Like the shipping industry, Cloud Computing has standardized containers. And thi
 
 
 <details>
-  <summary>Standardization and Trade Routes!</summary>
+  <accordion>Standardization and Trade Routes!</summaary>
   
   
 For the past century the width of the Panama canal has driven the standardized size ships are built. Today, gobal warming has opened a new trade route above Canada. Last year about 20 oversized ships used this new trade route. This is the first time those oversized ships have been able to reach the west coast of North America. Now people can build bigger boats. A new trade route makes things trickier. Since 1977 the Canal has been under a permanent Neutrality agreement, meaning every country must be allowed to use it. Canada's new trade route has no such agreement. a Hippie, waving a Canadian flag on a freighter ship
@@ -21,13 +21,4 @@ For the past century the width of the Panama canal has driven the standardized s
 <br>
 
 
-  Link with href
-</a>
-<button
-  class="btn btn-primary"
-  type="button"
-  data-mdb-toggle="collapse"
-  data-mdb-target="#collapseExample"
-  aria-expanded="false"
-  aria-controls="collapseExample"
->
+<accordion> test </accordion>
