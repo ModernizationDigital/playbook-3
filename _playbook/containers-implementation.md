@@ -32,6 +32,8 @@ Have you looked at what is available for modernization. Is there anything else o
 
   <body>
     <canvas id="container" style="width:100%; height:400px;"></canvas>
+
+<link rel=href>
     <p style="font-family: Helvetica; color: #333; padding: 1em 2em; font-size: 12px">
       Source: www.idc.com Gary Chen June 2019 | Sponsored by: Amazon Web Services 
       <br>
@@ -39,7 +41,7 @@ Have you looked at what is available for modernization. Is there anything else o
       created by <a href="https://handsondataviz.org/">HandsOnDataViz</a>
       with <a href="https://www.chartjs.org/">Chart.js</a>
     </p>
-    <script src="script.js"></script>
+    <script src="{{site.baseurl}}/js/script.js"></script>
   </body>
   
 - - -
