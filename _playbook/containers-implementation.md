@@ -15,24 +15,7 @@ Some times older applications have outdated technologies, licencing agreement th
 Have you looked at what is available for modernization. Is there anything else out there that can do what your app can do? An already built SAAS?
 - - -
 
-<html lang="en">
 
-  <head>
-    <title>Chart.js Bar Chart Template by handsondataviz.org</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-
-    <!-- Load jQuery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  
-    <!-- Load Chart.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
-
-    <!-- Load PapaParse to read csv files -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
-  </head>
-
-  <body>
 
     <canvas id="container" style="width:100%; height:400px;"></canvas>
     
@@ -46,10 +29,7 @@ Have you looked at what is available for modernization. Is there anything else o
 
     <script src="script.js"></script>
 
-  </body>
-
-</html>
-
+  
 - - -
 
 ### Application migration
