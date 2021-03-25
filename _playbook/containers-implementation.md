@@ -41,7 +41,7 @@ Have you looked at what is available for modernization. Is there anything else o
       created by <a href="https://handsondataviz.org/">HandsOnDataViz</a>
       with <a href="https://www.chartjs.org/">Chart.js</a>
     </p>
-    <script src="{{site.baseurl}}/js/script.js"></script>
+    <script src="/js/script.js"></script>
   </body>
   
 - - -
