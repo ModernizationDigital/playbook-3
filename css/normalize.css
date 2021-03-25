@@ -6,6 +6,21 @@
  *    user zoom.
  */
 
+md-checkbox {
+  margin: 8px;
+  cursor: pointer;
+  padding-left: 18px;
+  padding-right: 0;
+  line-height: 26px;
+  min-width: 18px;
+  min-height: 18px;
+}
+
+md-checkbox.md-checked.green .md-icon {
+  background-color: rgba(0, 255, 0, 0.87);
+ }
+
+
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
