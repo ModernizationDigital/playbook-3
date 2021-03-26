@@ -21,8 +21,19 @@ Containers make it easy to package your entire application and move it to the cl
 So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
 
 ### Key Considerations (collapse and expand the journeymap, checklist, next steps)
-* Overview of your containerization journey [add high level journey map - we can iterate]<br>
-* How do I inventory my app? [add checklist of items]<br>
+<details>
+  <summary markdown="span">Overview of your containerization journey, click me to expand</summary>
+<p>
+This is where I can create and put a user journey
+</details>
+<p>
+
+<details>
+  <summary markdown="span">How do I inventory my app? click me to expand</summary>
+<p>
+[add checklist of items]
+</details>
+<p>
 * Do you want to keep your application? <br>
 * How much effort are you willing to invest? <br>
 * How do you look for SAAS products that can suit my needs? how to source Saas <br>
@@ -46,14 +57,3 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 
 
 
-<details>
-  <summary markdown="span">This is the summary text, click me to expand</summary>
-<p>
-  This is the detailed text.
-
-  We can still use markdown, but we need to take the additional step of using the `parse_block_html` option as described in the [Mix HTML + Markdown Markup section](#mix-html--markdown-markup).
-
-  You can learn more about expected usage of this approach in the [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default) though the solution we use above is specific to usage in markdown.
-  </p>
-</details>
-<p>
