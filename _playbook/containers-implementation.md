@@ -56,3 +56,4 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
   You can learn more about expected usage of this approach in the [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default) though the solution we use above is specific to usage in markdown.
   </p>
 </details>
+<p>
