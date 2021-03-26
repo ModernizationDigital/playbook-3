@@ -23,6 +23,11 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 ### Key Considerations (collapse and expand the journeymap, checklist, next steps)
 * Overview of your containerization journey [add high level journey map - we can iterate]<br>
 * How do I inventory my app? [add checklist of items]<br>
+<details open>
+<summary>How do I inventory my app?</summary>
+
+<p>[add checklist of items]</p>
+</details>
 * Do you want to keep your application? <br>
 * How much effort are you willing to invest? <br>
 * How do you look for SAAS products that can suit my needs? how to source Saas <br>
