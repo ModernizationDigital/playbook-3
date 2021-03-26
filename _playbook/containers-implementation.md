@@ -29,8 +29,8 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 [ ] What are my next steps? [checklist of next steps] <br>
 - - -
 
-|  What Containers can do for you              | What Containers cannot do         |
-| ----------------------------------           | --------------------------        |
+|  What Containers can do for you    | What Containers cannot do |
+| ---------------------------------- | -------------------------- |
 |  can move your app to the cloud              | does not pay your technical debt  |
 |  give you portability                        | does not fix an underlying poor infrastructure|
 |  allow your app to use cloud elasticity (scalability) | doesn't make app cloud native |
@@ -41,25 +41,3 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 |  can still sit on prem                       | tech managed by gui (excel, ms axis) |
 |  reduce tools your dev teams need            |                            |
 <br>
-
-- - -
- <head>
-    <!-- Load jQuery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <!-- Load Chart.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
-    <!-- Load PapaParse to read csv files -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
-  </head>
-  <body>
-    <canvas id="container" style="width:100%; height:400px;"></canvas>
-   <link rel=href>
-    <p style="font-family: Helvetica; color: #333; padding: 1em 2em; font-size: 12px">
-      Source: www.idc.com Gary Chen June 2019 | Sponsored by: Amazon Web Services 
-      <br>
-    </p>
-    <script src="script.js"></script>
-  </body>
-  
-- - - 
-
