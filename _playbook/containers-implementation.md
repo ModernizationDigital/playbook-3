@@ -15,6 +15,8 @@ At the same time you want to think about your applications usership. How many pe
 
 How much work and effort are you able to invest? Containers are a great solution if you don't have the ability or resources to totally overhaul your app. With a container solution you'll have the ability to modernize your app enough to move it to the cloud and have access to cloud capabilities. It will not be cloud native, but it's a step in the right direction. Containers are also a great way to start your modernization, and then you can come back to the containerized app at a future date to see if you want to further enhance its cloud capabilities.  
 
+Containers make it easy to package your entire application and move it to the cloud without needing to make any code changes. If you want to keep your app, there isn't a prebuilt solution and you don't have the resources, or reasons to rebuild it. This would be a good solution.  
+
 With these considerations reviewed you might have decided: Yes, containers are the answer to all your problems. Now what?  
 
 \### Key Considerations 
@@ -50,15 +52,9 @@ With these considerations reviewed you might have decided: Yes, containers are t
     <script src="/js/script.js"></script>
   </body>
   
-- - -
-
-### Application migration
-
-Containers make it easy to package your entire application and move it to the cloud without needing to make any code changes. If you want to keep your app, there isn't a prebuilt solution and you don't have the resources, or reasons to rebuild it. This would be a good solution.  
-
 - - - 
 
-|  What they can do for you                    | What they won't do         |
+|  What Containers can do for you                    | What Containers cannot do         |
 | --------------------------                   | -------------------------- |
 |  can move your app to the cloud              | does not pay your technical debt  |
 |  give you portability                        | does not fix an underlying poor infrastructure|
@@ -66,9 +62,7 @@ Containers make it easy to package your entire application and move it to the cl
 |  allows your developers to innovate          | if your app is broken it will still be broken |
 |  achieve greater efficiency                  | liscence dependencies - might prevent use |
 |  allow you to attract innovative developers  | hardward dependencies - might prevent use |
-|  aligns w/workforce trends.                  | technology dependencies - some tech is too old |
-|  more efficiencieny development technologies | tech managed by gui (excel, ms axis) |
+|  more efficient development technologies     | technology dependencies - some tech is too old |
+|  can still sit on prem                       | tech managed by gui (excel, ms axis) |
 |  reduce tools your dev teams need            |                            |
-|  can still sit on prem                       |                            |
-
 <br>
