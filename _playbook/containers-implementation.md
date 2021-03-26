@@ -41,7 +41,7 @@ Figure out something</p>
 </details>
 
 <details>
-  <summary markdown="span">DHow much effort are you willing to invest?</summary>
+  <summary markdown="span">How much effort are you willing to invest?</summary>
 <p>
 Figure out something</p>
 </details>
@@ -58,6 +58,9 @@ Figure out something</p>
 [have to, jumpstart, temp solution]</p>
 </details>
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 <details>
   <summary markdown="span">What do I need to do to move to Containers?</summary>
 <p>
