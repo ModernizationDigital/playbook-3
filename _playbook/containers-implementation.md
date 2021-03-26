@@ -20,13 +20,14 @@ Containers make it easy to package your entire application and move it to the cl
 
 So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
 
-### Key Considerations 
-* How do I inventory my app? [add checklist of items] <br>
+### Key Considerations (collapse and expand the journeymap, checklist, next steps)
+* Overview of your containerization journey [add high level journey map - we can iterate]<br>
+* How do I inventory my app? [add checklist of items]<br>
 * Do you want to keep your application? <br>
 * How much effort are you willing to invest? <br>
 * How do you look for SAAS products that can suit my needs? how to source Saas <br>
 * What purpose are you going to containerize? [have to, jumpstart, temp solution]<br>
-* What are my next steps? [add checklist of next steps, journey map]<br>
+* What do I need to do to move my application to Containers [checklist of next steps]<br>
 
 - - -
 
