@@ -54,8 +54,8 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
   
 - - - 
 
-|  What Containers can do for you                    | What Containers cannot do         |
-| --------------------------                   | -------------------------- |
+|  What Containers can do for you              | What Containers cannot do         |
+| ----------------------------------           | --------------------------        |
 |  can move your app to the cloud              | does not pay your technical debt  |
 |  give you portability                        | does not fix an underlying poor infrastructure|
 |  allow your app to use cloud elasticity (scalability) | doesn't make app cloud native |
