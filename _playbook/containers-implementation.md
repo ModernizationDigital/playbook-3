@@ -27,8 +27,8 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 * How much effort are you willing to invest? <br>
 * How do you look for SAAS products that can suit my needs? how to source Saas <br>
 * What purpose are you going to containerize? [have to, jumpstart, temp solution]<br>
-* What do I need to do to move my application to Containers [checklist of next steps]<br>
-
+* What do I need to do to move my application to Containers [checklist of next steps]
+<br>
 - - -
 
 | What Containers can do for you    | What Containers cannot do |
