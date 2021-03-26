@@ -22,26 +22,26 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 
 #### Key Considerations - Click each to read more
 <details>
-  <summary markdown="span">Overview of your containerization journey, click me to expand</summary>
+  <summary markdown="span">Overview of your containerization journey</summary>
 <p>
 This is where I can create and put a user journey
 </p>
 </details>
 
 <details>
-  <summary markdown="span">How do I inventory my app? click me to expand</summary>
+  <summary markdown="span">How do I inventory my app?</summary>
 <p>
 [add checklist of items]</p>
 </details>
 
 <details>
-  <summary markdown="span">Do you want to keep your application? click me to expand</summary>
+  <summary markdown="span">Do you want to keep your application?</summary>
 <p>
 Figure out something</p>
 </details>
 
 <details>
-  <summary markdown="span">DHow much effort are you willing to invest? click me to expand</summary>
+  <summary markdown="span">DHow much effort are you willing to invest?</summary>
 <p>
 Figure out something</p>
 </details>
@@ -59,7 +59,7 @@ Figure out something</p>
 </details>
 
 <details>
-  <summary markdown="span">What do I need to do to move to Containers? </summary>
+  <summary markdown="span">What do I need to do to move to Containers?</summary>
 <p>
 [checklist of next steps]</p>
 </details>
