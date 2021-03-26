@@ -22,11 +22,11 @@ With these considerations reviewed you might have decided: Yes, containers are t
 ### Key Considerations 
 
 [ ] How do I inventory my app? [checklist of items] <br>
-[ ] Do you want to keep your application <br>
-[ ] How much effort am I willing to invest <br>
-[ ] IHow do I look for SAAS products that can suit my needs? [how to source Saas] <br>
-[ ] What purpose are you going to containerize [have to, jumpstart, temp solution] <br>
-[ ] What are my next steps [checklist of next steps] <br>
+[ ] Do you want to keep your application? <br>
+[ ] How much effort are you willing to invest? <br>
+[ ] How do you look for SAAS products that can suit my needs? [how to source Saas] <br>
+[ ] What purpose are you going to containerize? [have to, jumpstart, temp solution] <br>
+[ ] What are my next steps? [checklist of next steps] <br>
 
 - - -
  <head>
