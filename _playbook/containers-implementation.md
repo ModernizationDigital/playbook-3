@@ -41,5 +41,4 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 |  more efficient development technologies     | technology dependencies - some tech is too old |
 |  can still sit on prem                       | tech managed by gui excel, ms axis |
 |  reduce tools your dev teams need            |        |
-
 <br>
