@@ -3,7 +3,7 @@ layout: page
 title: 'Can I use Containers'
 ---
 
-### Are Containers the right solution for you? 
+#### Needs imagery, checklist, diagrams, sectioning 
 
 Choosing to containerize your app as a modernization pattern is a holistic process. We have to look at what we want to do, what we need, our effort level and what is available. We want to make sure containers is the right solution.  
 
