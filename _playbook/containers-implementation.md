@@ -1,31 +1,30 @@
 ---
 layout: page
-title: 'Implementation'
+title: 'Can I use Containers'
 ---
 
 ### Are Containers the right solution for you? 
 
-At a high level, let's just do a pulse check and see if containers are the answer to all your problems. Have you looked at [Link to section about Keep, Retire, Repurchase]? If you have decided you want to keep your app, let's keep going and see how this could help you. 
+Choosing to containerize your app as a modernization pattern is a holistic process. We have to look at what we want to do, what we need, our effort level and what is available. We want to make sure containers is the right solution.  
 
-Some times older applications have outdated technologies, licencing agreement that limit it's re-architecture and still you need to move it to the cloud to take advantage of some of the cloud capabilies, like scaling. 
+Wanting and deciding to modernize your app is not the same as can. You might want to modernize your app, and it's too old. Hardware is gone, coders don't know it. Within the next decade many of your on premise solutions of the past will become obsolete, and we will not be able to find coders with the skill set to fix your hardware. 
 
-After you've decided to keep you app, you need to decide how much modernization you want to do. Want is not the same as can. You might want to modernize your app, and it's too old. Hardware is gone, coders don't know it. Within the next decade many of your on premise solutions of the past will become obosolete, and we will not be able to find coders with the skill set to fix your hardwared. 
+Sometimes older applications have outdated technologies, and or licensing agreements that limit it's re-architecture and still you need to move it to the cloud to take advantage of some of the cloud capabilities, like scaling. Containers would work for this scenario.  
 
-A key consideration is: how much work do I want to invest? Containers are a great solution if you don't have the ability or resources to totally overhaul your app. With a container solution you'll have the ability to modernize your app enough to move it to the cloud and have access to cloud capabilities. It will not be cloud native, but it's a step in the right direction. Containers are also a great way to start your modernization, and then you can come back to the containerized app at a future date to see if you want to further enhance its cloud capabilties. 
+At the same time you want to think about your applications usership. How many people need your app?  If you have very limited users for your app it might cost less to retire the app and replace it with a SAAS product. We want to check if there is a SAAS out there that can meet your needs.  
 
-Before you jump to starting a containerization process, please check if there is a SAAS out there that can do the same services as your app. If you have very limited users for your app it might cost less to retire the app and replace it with a SAAS productt. 
+How much work and effort are you able to invest? Containers are a great solution if you don't have the ability or resources to totally overhaul your app. With a container solution you'll have the ability to modernize your app enough to move it to the cloud and have access to cloud capabilities. It will not be cloud native, but it's a step in the right direction. Containers are also a great way to start your modernization, and then you can come back to the containerized app at a future date to see if you want to further enhance its cloud capabilities.  
 
-Choosing to containerize your app as a moderization pattern is a holistic process. We have to look at what we want to do, what we need, our effort level and what is available. We want to make sure containers is the right solution. 
+With these considerations reviewed you might have decided: Yes, containers are the answer to all your problems. Now what?  
 
-\### Key Considerations
+\### Key Considerations 
 
-[ ] How do I inventory my app? [checklist of items]
-[ ] Do you want to keep your application
-[ ] How much effort am I willing to invest
-[ ] IHow do I look for SAAS products that can suit my needs? [how to source Saas]
-[ ] What purpose are you going to containerize [have to, jumpstart, quick fix till we have resources to fully enhance ]
-[ ] What are my next steps [checklist of next steps]
-
+[ ] How do I inventory my app? [checklist of items] 
+[ ] Do you want to keep your application 
+[ ] How much effort am I willing to invest 
+[ ] IHow do I look for SAAS products that can suit my needs? [how to source Saas] 
+[ ] What purpose are you going to containerize [have to, jumpstart, quick fix till we have resources to fully enhance ] 
+[ ] What are my next steps [checklist of next steps] 
 
 - - -
  <head>
