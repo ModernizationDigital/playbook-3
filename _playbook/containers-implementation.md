@@ -37,19 +37,14 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
     <!-- Load PapaParse to read csv files -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
   </head>
-
   <body>
     <canvas id="container" style="width:100%; height:400px;"></canvas>
-
-<link rel=href>
+   <link rel=href>
     <p style="font-family: Helvetica; color: #333; padding: 1em 2em; font-size: 12px">
       Source: www.idc.com Gary Chen June 2019 | Sponsored by: Amazon Web Services 
       <br>
-      <a href="https://github.com/HandsOnDataViz/chartjs-bar">View data and code</a>,
-      created by <a href="https://handsondataviz.org/">HandsOnDataViz</a>
-      with <a href="https://www.chartjs.org/">Chart.js</a>
     </p>
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
   </body>
   
 - - - 
