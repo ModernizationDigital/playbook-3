@@ -58,9 +58,6 @@ Figure out something</p>
 [have to, jumpstart, temp solution]</p>
 </details>
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
 <details>
   <summary markdown="span">What do I need to do to move to Containers?</summary>
 <p>
