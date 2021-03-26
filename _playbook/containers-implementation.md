@@ -21,6 +21,7 @@ Containers make it easy to package your entire application and move it to the cl
 So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
 
 #### Key Considerations - Click each to read more
+
 <details>
   <summary markdown="span">Overview of your containerization journey</summary>
 <p>
