@@ -9,10 +9,11 @@ Choosing to containerize your app as a modernization pattern is a holistic proce
 
 Wanting and deciding to modernize your app is not the same as can. You might want to modernize your app, and it's too old. Hardware is gone, coders don't know it. Within the next decade many of your on premise solutions of the past will become obsolete, and we will not be able to find coders with the skill set to fix your hardware. 
 
-Sometimes older applications have outdated technologies, and or licensing agreements that limit it's re-architecture and still you need to move it to the cloud to take advantage of some of the cloud capabilities, like scaling. Containers would work for this scenario.  
-
 <hr />
 <script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-url="01yz0nd1-untitled-project" data-w="800" data-h="400" data-domain="my"></div><p style="width:142px !important;border-radius:3px !important;padding:3px !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Made with <a href="https://www.visme.co/?vc=Made-With-Visme&amp;utm_medium=Embed" target="_blank" rel="noreferrer" style="font-weight:600 !important;text-decoration:none !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Visme</a></p>
+
+Sometimes older applications have outdated technologies, and or licensing agreements that limit it's re-architecture and still you need to move it to the cloud to take advantage of some of the cloud capabilities, like scaling. Containers would work for this scenario.  
+
 
 At the same time you want to think about your applications usership. How many people need your app?  If you have very limited users for your app it might cost less to retire the app and replace it with a SAAS product. We want to check if there is a SAAS out there that can meet your needs.  
 
