@@ -23,11 +23,7 @@ Containers make it easy to package your entire application and move it to the cl
 
 So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
 
-
-
-
 ### Key Considerations 
-
 * How do I inventory my app? checklist of items <br>
 * Do you want to keep your application? <br>
 * How much effort are you willing to invest? <br>
@@ -35,7 +31,7 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 * What purpose are you going to containerize? have to, jumpstart, temp solution<br>
 * What are my next steps? checklist of next steps <br>
 
-- - -
+<br>
 
 | What Containers can do for you    | What Containers cannot do |
 | ---------------------------------- | -------------------------- |
@@ -47,5 +43,6 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 |  allow you to attract innovative developers  | hardward dependencies - might prevent use |
 |  more efficient development technologies     | technology dependencies - some tech is too old |
 |  can still sit on prem                       | tech managed by gui excel, ms axis |
-|  reduce tools your dev teams need            |  
+|  reduce tools your dev teams need            |        |
+
 <br>
