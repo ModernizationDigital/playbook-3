@@ -49,7 +49,7 @@ With these considerations reviewed you might have decided: Yes, containers are t
       created by <a href="https://handsondataviz.org/">HandsOnDataViz</a>
       with <a href="https://www.chartjs.org/">Chart.js</a>
     </p>
-    <script src="/js/script.js"></script>
+    <script src="js/script.js"></script>
   </body>
   
 - - - 
