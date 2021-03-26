@@ -17,7 +17,7 @@ How much work and effort are you able to invest? Containers are a great solution
 
 Containers make it easy to package your entire application and move it to the cloud without needing to make any code changes. If you want to keep your app, there isn't a prebuilt solution and you don't have the resources, or reasons to rebuild it. This would be a good solution.  
 
-With these considerations reviewed you might have decided: Yes, containers are the answer to all your problems. Now what?  
+So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details.   
 
 ### Key Considerations 
 
