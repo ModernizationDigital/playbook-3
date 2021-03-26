@@ -20,12 +20,7 @@ Containers make it easy to package your entire application and move it to the cl
 So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
 
 <hr />
-<iframe style="border: 0px solid rgba(0, 0, 0, 0.1);" width="800" height="400" src="https://my.visme.co/view/01yz0nd1-untitled-project" allowfullscreen></iframe>
-
 <script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-url="01yz0nd1-untitled-project" data-w="800" data-h="400" data-domain="my"></div><p style="width:142px !important;border-radius:3px !important;padding:3px !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Made with <a href="https://www.visme.co/?vc=Made-With-Visme&amp;utm_medium=Embed" target="_blank" rel="noreferrer" style="font-weight:600 !important;text-decoration:none !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Visme</a></p>
-
-<hr />
-<script style="border: 0px solid rgba(0, 0, 0, 0.1);" width="800" height="400" src="script.js" allowfullscreen></iframe>
 
 
 ### Key Considerations 
