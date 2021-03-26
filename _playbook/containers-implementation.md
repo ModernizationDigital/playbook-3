@@ -5,7 +5,7 @@ title: 'Can I use Containers'
 
 #### Needs imagery, checklist, diagrams, sectioning 
 
-Choosing to containerize your app as a modernization pattern is a holistic process. We have to look at what we want to do, what we need, our effort level and what is available. We want to make sure containers is the right solution.  
+Choosing to containerize your app as a modernization pattern is a holistic process. We want to make sure containers is the right solution. This involves identifying: what we want to do, what we need, our effort level and what is available. 
 
 Wanting and deciding to modernize your app is not the same as can. You might want to modernize your app, and it's too old. Hardware is gone, coders don't know it. Within the next decade many of your on premise solutions of the past will become obsolete, and we will not be able to find coders with the skill set to fix your hardware. 
 
