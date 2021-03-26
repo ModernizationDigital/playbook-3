@@ -20,7 +20,7 @@ Containers make it easy to package your entire application and move it to the cl
 
 So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
 
-#### Key Considerations (collapse and expand the journeymap, checklist, next steps)
+#### Key Considerations - Click each to read more
 <details>
   <summary markdown="span">Overview of your containerization journey, click me to expand</summary>
 <p>
@@ -28,18 +28,42 @@ This is where I can create and put a user journey
 </p>
 </details>
 
-
 <details>
   <summary markdown="span">How do I inventory my app? click me to expand</summary>
 <p>
 [add checklist of items]</p>
 </details>
 
-* Do you want to keep your application? <br>
-* How much effort are you willing to invest? <br>
-* How do you look for SAAS products that can suit my needs? how to source Saas <br>
-* What purpose are you going to containerize? [have to, jumpstart, temp solution]<br>
-* What do I need to do to move my application to Containers [checklist of next steps]<br>
+<details>
+  <summary markdown="span">Do you want to keep your application? click me to expand</summary>
+<p>
+Figure out something</p>
+</details>
+
+<details>
+  <summary markdown="span">DHow much effort are you willing to invest? click me to expand</summary>
+<p>
+Figure out something</p>
+</details>
+
+<details>
+  <summary markdown="span">How to source Saas product to meet your needs</summary>
+<p>
+Figure out something</p>
+</details>
+
+<details>
+  <summary markdown="span">What purpose are you going to containerize?</summary>
+<p>
+[have to, jumpstart, temp solution]</p>
+</details>
+
+<details>
+  <summary markdown="span">What do I need to do to move to Containers? </summary>
+<p>
+[checklist of next steps]</p>
+</details>
+
 
 
 - - -
