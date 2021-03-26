@@ -28,7 +28,6 @@ So if you've decided: Containers ARE the answer to all my problems!!! Then we'll
 * What purpose are you going to containerize? [have to, jumpstart, temp solution]<br>
 * What are my next steps? [add checklist of next steps, journey map]<br>
 
-<br>
 - - -
 
 | What Containers can do for you    | What Containers cannot do |
