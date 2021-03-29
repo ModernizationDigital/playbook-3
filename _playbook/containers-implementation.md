@@ -56,22 +56,24 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. 
 As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
-<font="strong"> Key Questions: </p>
+<strong> Key Questions: </strong>
 
 1. What are the benefits you expect to get from the intended saas model. Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? 
+
 - - -
 | What the Must Haves | What are the Nice to Haves| 
 | -------------------------- | -------------------------- | 
 |                                      |                                     | 
 |                                      |                                     | 
-- - -
-2. Is it a real SaaS? 
-There are hybrid solutions that might end up costing you more in the long run, they might ask you to do some of the following additional work:  
+
+
+2. Is it a real SaaS? Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
+There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:  
 * install special client software on, or  
 * needs you to keep parts of the application on-premise,  
 * And others where you need to add other products 
 
-Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
+
 
 3. Browsers and Mobility.  
 * Browers: You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.  
