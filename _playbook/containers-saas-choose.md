@@ -6,7 +6,6 @@ title: 'Choosing a SaaS Product'
 #### How to source Saas product to meet your needs
 
 Software as a service (SaaS) is an application distribution model where the software is hosted, maintained and updated by a third-party provider on their own servers and made available to organizations or individuals to be used over the internet. Examples of providers are AWS & Azure. Popular examples of Saas products are: gmail, google drive and nearly every software that runs on your browser and is targeted to the end user.  
-<br>
 
 #### How can Saas help you? 
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
