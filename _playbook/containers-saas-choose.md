@@ -141,21 +141,25 @@ How will your import your old data into the new saas. Does your SaaS vendor have
 
 
 <details>
-<summary>12. What about backup plans? </summary>
+<summary></summary>
 
 <p>
+
+</p>
+</details>
+
+<a href="#demo12" data-toggle="collapse" :arrow_down:>12. What about backup plans? </a>
+
+<div id="demo12" class="collapse">
 Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
-</p>
-</details>
+</div>
 
 
-<details>
-<summary>13. What is the pricing model?</summary>
 
-<p>
+<a href="#demo13" data-toggle="collapse">13. What is the pricing model?/a>
+<div id="demo13" class="collapse">
 Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. 
-</p>
-</details>
+</div>
 
 
 
@@ -177,35 +181,9 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
  :arrow_down:
 
-
-<button data-toggle="collapse" data-target="#demo">Collapsible</button>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
-</div>
-
-
-<a href="#demo" data-toggle="collapse">Collapsible</a>
+<a href="#demo" data-toggle="collapse">header</a>
 
 <div id="demo" class="collapse">
 Lorem ipsum dolor text....
 </div>
 
-
-<div id="demo" class="collapse in">
-Lorem ipsum dolor text....
-</div>
-
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" href="#collapse1">Collapsible panel</a>
-      </h4>
-    </div>
-    <div id="collapse1" class="panel-collapse collapse">
-      <div class="panel-body">Panel Body</div>
-      <div class="panel-footer">Panel Footer</div>
-    </div>
-  </div>
-</div>
