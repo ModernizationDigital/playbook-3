@@ -158,31 +158,14 @@ Beware of hidden costs. Costs are rarely fixed and vary based on different facto
 </details>
 
 
-<details>
-<summary>14. Have you balanced new ideas with experienced vendors?</summary>
 
-<p>
-Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable.  
-</p>
-</details>
-
-
-<details>
-<summary>15. Are you clear about the innovation and update process?</summary>
-
-<p>
-The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
-Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward. 
-</p>
-</details>
-<br>
-
-<button data-toggle="collapse" data-target="#demo">15. Are you clear about the innovation and update process?</button>
-<div id="demo" class="collapse">
-The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
-Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.
+<button data-toggle="collapse" data-target="#demo">14. Have you balanced new ideas with experienced vendors?</button><div id="demo" class="collapse">
+Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
 </div>
-<br>
+
+<button data-toggle="collapse" data-target="#demo">15. Are you clear about the innovation and update process?</button><div id="demo" class="collapse">
+The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.
+</div>
 
 
 
