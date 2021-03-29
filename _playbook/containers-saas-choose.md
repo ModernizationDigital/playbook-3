@@ -180,4 +180,28 @@ A bit more than normal indentation is necessary to get the nesting correct,
  1. and continued non-nested
 
   </details>
+
+
+<details>
+<summary>Click this to collapse/fold.</summary>
+
+These details _remain_ **hidden** until expanded.
+
+```
+PASTE LOGS HERE
+```
+
 </details>
+
+
+<details>
+<summary arrow down>Click this to collapse/fold.</summary>
+
+These details _remain_ **hidden** until expanded.
+
+```
+PASTE LOGS HERE
+```
+
+</details>
+
