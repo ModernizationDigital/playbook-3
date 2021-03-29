@@ -46,7 +46,7 @@ c. and others where you need to add other products
 <details open>
 <summary>3. Browsers and Mobility.</summary>
 <p>
-<strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.
+<strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
 <strong>Responsive:</strong>  Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
 </p>
