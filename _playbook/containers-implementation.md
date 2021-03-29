@@ -50,13 +50,13 @@ How much work and effort are you able to invest? Containers are a great solution
 <p>
 <br>
 Software as a service (SAAS) is an application distribution model where the software is hosted, maintained and updated by a third-party provider on their own servers and made available to organizations or individuals to be used over the internet. Examples of providers are AWS & Azure. Popular examples of Saas products are: gmail, google drive and nearly every software that runs on your browser and is targeted to the end user.  
-
-#### How can Saas help you? 
+<br>
+<strong> How can Saas help you? </strong>
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. 
 A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. 
 As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
-#### Key Questions: 
+<font="strong"> Key Questions: </p>
 
 1. What are the benefits you expect to get from the intended saas model. Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? 
 - - -
