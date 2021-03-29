@@ -11,7 +11,8 @@ Software as a service (SaaS) is an application distribution model where the soft
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
 #### Key Questions: 
-<details><summary> 1. What are the benefits you expect to get from the intended saas model?</summary>
+<details>
+<summary :arrow_down 1. What are the benefits you expect to get from the intended saas model?:> 1. What are the benefits you expect to get from the intended saas model?</summary>
 
 <p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -87,7 +88,7 @@ The major drive for moving to the cloud is to have better integration options. L
 
 
 <details>
-<summary arrow_down>7. What is the Saas Service Level Agreement (SLA)?</summary>
+<summary>7. What is the Saas Service Level Agreement (SLA)?</summary>
 
 <p>
 The Service Level Agreement (SLA) is where the SaaS provider clearly states the services you, the client will receive.<br>
@@ -101,7 +102,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 
 
 <details>
-<summary :arrow_down:>8. What are the IT support requirements?</summary>
+<summary>8. What are the IT support requirements?</summary>
 
 <p>
 <strong>Clarity:</strong>  Is the level of support and services the SaaS vendor offers clear? <br>
@@ -112,7 +113,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 </details>
 
 
-<details :arrow_down:>
+<details>
 <summary>9. Do you have a contingency plan?</summary>
 
 <p>
