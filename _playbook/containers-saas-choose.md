@@ -113,6 +113,53 @@ What if your Saas provider goes out of business? In the SLA you talk about servi
 </details>
  
 
+<details open>
+<summary>10. Can you train your staff? </summary>
+<p>
+Implementing SaaS is much easier than traditional software. Still, you want to make sure your SaaS provides training programs for new customers/staff.
+</p>
+</details>
+
+
+<details open>
+<summary>11. What migration options does the SaaS provider offer? </summary>
+<p>
+How will your import your old data into the new saas. Does your SaaS vendor have proper mappings to import data from well-known applications and formats.  
+</p>
+</details>
+
+
+<details open>
+<summary>12. What about backup plans? </summary>
+<p>
+Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
+</p>
+</details>
+
+
+<details open>
+<summary>13. What is the pricing model? </summary>
+<p>
+Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. 
+</p>
+</details>
+
+
+<details open>
+<summary>14. Have you balanced new ideas with experienced vendors?  </summary>
+<p>
+Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable.  
+</p>
+</details>
+
+
+<details open>
+<summary>15. Are you clear about the innovation and update process? </summary>
+<p>
+The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
+Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward. 
+</p>
+</details>
 
 
 
