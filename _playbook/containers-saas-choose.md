@@ -12,7 +12,7 @@ Software as a service (SaaS) is an application distribution model where the soft
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
 #### Key Questions: 
-<details open>
+<details>
 <summary>1. What are the benefits you expect to get from the intended saas model?</summary>
 <p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -33,7 +33,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 </details>
 
 
-<details open>
+<details>
 <summary>2. Is it really a SaaS?</summary>
 <p>Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
 There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:<br>
@@ -44,7 +44,7 @@ c. and others where you need to add other products
 </details>
 
 
-<details open>
+<details>
 <summary>3. Browser and Responsive Behavior.</summary>
 <p>
 <strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
@@ -54,7 +54,7 @@ c. and others where you need to add other products
 </details>
 
 
-<details open>
+<details>
 <summary>4. Plan an Exit Strategy</summary>
 <p>
 Digital advances can cause industry giants can become obsolete overnight. You want to make sure that you can protect your application as technology and trends change. <br>  
@@ -65,7 +65,7 @@ Is it open source? This will allow anyone to be able to edit, fix your code late
 </details>
 
 
-<details open>
+<details>
 <summary>5. Saas Provider Support</summary>
 <p>
 Read reviews to see how well their support service is. Ask about escalation proceedures. If possible create a test account, (even if you have to pay for a few weeks trial) and create a few support tickets to see how well their service is.  
@@ -73,7 +73,7 @@ Read reviews to see how well their support service is. Ask about escalation proc
 </details>
 
 
-<details open>
+<details>
 <summary>6. Does the SaaS product play well with others?</summary>
 <p>
 The major drive for moving to the cloud is to have better integration options. Look at your chosen provider’s integration options carefully and take all your requirements into account. Can you integrate these or do you need another developer?  
@@ -81,7 +81,7 @@ The major drive for moving to the cloud is to have better integration options. L
 </details>
 
 
-<details open>
+<details>
 <summary>7. What is the Saas Service Level Agreement (SLA)?</summary>
 <p>
 The Service Level Agreement (SLA) is where the SaaS provider clearly states the services you, the client will receive.<br>
@@ -94,7 +94,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 </details>
 
 
-<details open>
+<details>
 <summary>8. What are the IT support requirements?</summary>
 <p>
 <strong>Clarity:</strong>  Is the level of support and services the SaaS vendor offers clear? <br>
@@ -105,7 +105,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 </details>
 
 
-<details open>
+<details>
 <summary>9. Do you have a contingency plan?</summary>
 <p>
 What if your Saas provider goes out of business? In the SLA you talk about service outages. But what if the vendor goes out of service for a longer period of time or altogether. How will your keep your appliation/business running? A contingency plan needs to be created in case of total SaaS provider service failure.
@@ -113,7 +113,7 @@ What if your Saas provider goes out of business? In the SLA you talk about servi
 </details>
  
 
-<details open>
+<details>
 <summary>10. Can you train your staff? </summary>
 <p>
 Implementing SaaS is much easier than traditional software. Still, you want to make sure your SaaS provides training programs for new customers/staff.
@@ -121,7 +121,7 @@ Implementing SaaS is much easier than traditional software. Still, you want to m
 </details>
 
 
-<details open>
+<details>
 <summary>11. What migration options does the SaaS provider offer? </summary>
 <p>
 How will your import your old data into the new saas. Does your SaaS vendor have proper mappings to import data from well-known applications and formats.  
@@ -129,7 +129,7 @@ How will your import your old data into the new saas. Does your SaaS vendor have
 </details>
 
 
-<details open>
+<details>
 <summary>12. What about backup plans? </summary>
 <p>
 Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
@@ -137,7 +137,7 @@ Once you've migrated can your Saas provider guarantee data integrity and prevent
 </details>
 
 
-<details open>
+<details>
 <summary>13. What is the pricing model? </summary>
 <p>
 Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. 
@@ -145,7 +145,7 @@ Beware of hidden costs. Costs are rarely fixed and vary based on different facto
 </details>
 
 
-<details open>
+<details>
 <summary>14. Have you balanced new ideas with experienced vendors?  </summary>
 <p>
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable.  
@@ -153,7 +153,7 @@ Often new startups have exciting innovative ideas and designs. However it would 
 </details>
 
 
-<details open>
+<details>
 <summary>15. Are you clear about the innovation and update process? </summary>
 <p>
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
