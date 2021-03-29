@@ -61,11 +61,16 @@ As a cloud application saas are easily scaled up or down with minimal costs. Whe
 1. What are the benefits you expect to get from the intended saas model. Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? 
 
 <hr />
-| What the Must Haves | What are the Nice to Haves| 
-| -------------------------- | -------------------------- | 
-|                                      |                                     | 
-|                                      |                                     | 
-
+<td>
+  <tr>
+    <td>What the Must Haves</td>
+    <td> What are the Nice to Haves</td>
+  </tr>
+  <tr>
+    <td>What the Must Haves</td>
+    <td> What are the Nice to Haves</td>
+  </tr>
+</td>
 <p>
 2. Is it a real SaaS? Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
 There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:  
