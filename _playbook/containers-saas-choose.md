@@ -81,7 +81,7 @@ The major drive for moving to the cloud is to have better integration options. L
 
 
 <details>
-<summary>7. What is the Saas Service Level Agreement (SLA)?</summary>
+<summary :arrow_down_small:>7. What is the Saas Service Level Agreement (SLA)?</summary>
 <p>
 The Service Level Agreement (SLA) is where the SaaS provider clearly states the services you, the client will receive.<br>
 <strong>Measurable:</strong> It defines the measurable aspects of the promised service in terms of things like quality and availability. <br>
