@@ -84,7 +84,7 @@ The major drive for moving to the cloud is to have better integration options. L
 
 
 <details>
-<summary>7. What is the Saas Service Level Agreement (SLA)?</summary>
+<summary arrow_down>7. What is the Saas Service Level Agreement (SLA)?</summary>
 <p>
 The Service Level Agreement (SLA) is where the SaaS provider clearly states the services you, the client will receive.<br>
 <strong>Measurable:</strong> It defines the measurable aspects of the promised service in terms of things like quality and availability. <br>
@@ -97,7 +97,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 
 
 <details>
-<summary>8. What are the IT support requirements?</summary>
+<summary :arrow_down:>8. What are the IT support requirements?</summary>
 <p>
 <strong>Clarity:</strong>  Is the level of support and services the SaaS vendor offers clear? <br>
 <strong>Documented:</strong>  How clearly and thoroughly is the SaaS documentation is written. <br>
@@ -107,7 +107,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 </details>
 
 
-<details>
+<details :arrow_down:>
 <summary>9. Do you have a contingency plan?</summary>
 <p>
 What if your Saas provider goes out of business? In the SLA you talk about service outages. But what if the vendor goes out of service for a longer period of time or altogether. How will your keep your appliation/business running? A contingency plan needs to be created in case of total SaaS provider service failure.
