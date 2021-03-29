@@ -170,7 +170,7 @@ Does the SaaS provider give you the option to keep the old version of the softwa
 -----------------
 This is a one line answer to the question above. 
 
-<script src="/js/script.js"></script>
+<script src="js/scrip.js"></script>
 
 
 </hr>
