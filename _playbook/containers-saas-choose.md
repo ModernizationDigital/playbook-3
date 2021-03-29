@@ -49,7 +49,7 @@ c. and others where you need to add other products
 
 
 <details>
-<summary>3. Browser and Responsive Behavior.</summary>
+<summary><image:arrow_down_small:>3. Browser and Responsive Behavior.</summary>
 <p>
 <strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
