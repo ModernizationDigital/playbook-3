@@ -12,11 +12,24 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. 
 As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
-
+### Key Questions: 
 <details open>
-<summary>Key Questions: </summary>
+<summary>1. What are the benefits you expect to get from the intended saas model?</summary>
 
-<p>...</p>
+<p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]</p>
+<table>
+<td>
+<th>Benefits of SaaS application</th>
+  <tr>
+    <td>What the Must Haves</td>
+    <td> What are the Nice to Haves</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+  </tr>
+</td>
+</table>
 </details>
 
 
