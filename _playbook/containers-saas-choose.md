@@ -12,7 +12,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 
 #### Key Questions: 
 <details>
-<summary image:arrow_down_small:> 1. What are the benefits you expect to get from the intended saas model?</summary>
+<summary icon:arrow_down_small:> 1. What are the benefits you expect to get from the intended saas model?</summary>
 <p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
   <tr>
@@ -32,7 +32,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 </details>
 
 
-<details summary=image:arrow_down_small:>
+<details>
 <summary>2. Is it really a SaaS?</summary>
 <p>Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
 There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:<br>
@@ -43,7 +43,8 @@ c. and others where you need to add other products
 </details>
 
 
-<details summary image:arrow_down_small:>3. Browser and Responsive Behavior.</summary>
+<details>
+<summary>3. Browser and Responsive Behavior.</summary>
 <p>
 <strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
