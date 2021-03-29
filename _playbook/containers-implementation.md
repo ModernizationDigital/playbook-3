@@ -57,10 +57,10 @@ A variety of licensing models give you better budget planning options. The pay-a
 As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 <p>
 <strong> Key Questions: </strong>
-
+<br>
 1. What are the benefits you expect to get from the intended saas model. Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? 
-<p>
-- - -
+
+<hr />
 | What the Must Haves | What are the Nice to Haves| 
 | -------------------------- | -------------------------- | 
 |                                      |                                     | 
@@ -72,7 +72,6 @@ There are hybrid solutions that might end up costing you more in the long run. T
 * install special client software on, or  
 * needs you to keep parts of the application on-premise,  
 * And others where you need to add other products 
-
 
 
 3. Browsers and Mobility.  
