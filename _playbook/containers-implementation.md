@@ -48,25 +48,25 @@ How much work and effort are you able to invest? Containers are a great solution
 <details>
   <summary markdown="span">How to source Saas product to meet your needs</summary>
 <p>
-<br>
+<p>
 Software as a service (SAAS) is an application distribution model where the software is hosted, maintained and updated by a third-party provider on their own servers and made available to organizations or individuals to be used over the internet. Examples of providers are AWS & Azure. Popular examples of Saas products are: gmail, google drive and nearly every software that runs on your browser and is targeted to the end user.  
-<br>
+<p>
 <strong> How can Saas help you? </strong>
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. 
 A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. 
 As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
-
+<p>
 <strong> Key Questions: </strong>
 
 1. What are the benefits you expect to get from the intended saas model. Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? 
-
+<p>
 - - -
 | What the Must Haves | What are the Nice to Haves| 
 | -------------------------- | -------------------------- | 
 |                                      |                                     | 
 |                                      |                                     | 
 
-
+<p>
 2. Is it a real SaaS? Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
 There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:  
 * install special client software on, or  
