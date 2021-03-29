@@ -120,48 +120,28 @@ Lorem ipsum dolor text....
 </div>
 
 
-
-<summary>8. What are the IT support requirements?</summary>
-
-<p>
+<a href="#demo8" data-toggle="collapse">8. What are the IT support requirements?<</a>
+<div id="demo8" class="collapse">
 <strong>Clarity:</strong>  Is the level of support and services the SaaS vendor offers clear? <br>
 <strong>Documented:</strong>  How clearly and thoroughly is the SaaS documentation is written. <br>
 <strong>Your Requirements:</strong>  Can your requirements can be achieved with the SaaS interface, tools, APIs and model. <br>
 <strong>Your Expectations:</strong>  Are your expectations and those of the SaaS provider the same?  <br>
-<a href="#demo" data-toggle="collapse">header</a>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
 </div>
 
 
-
-<summary>9. Do you have a contingency plan?</summary>
-
-<p>
+<a href="#demo9" data-toggle="collapse">9. Do you have a contingency plan?</a>
+<div id="demo9" class="collapse">
 What if your Saas provider goes out of business? In the SLA you talk about service outages. But what if the vendor goes out of service for a longer period of time or altogether. How will your keep your appliation/business running? A contingency plan needs to be created in case of total SaaS provider service failure.
-<a href="#demo" data-toggle="collapse">header</a>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
 </div>
 
 
-
-<summary>10. Can you train your staff?</summary>
-
-<p>
+<a href="#demo10" data-toggle="collapse">10. Can you train your staff?</a>
+<div id="demo10" class="collapse">
 Implementing SaaS is much easier than traditional software. Still, you want to make sure your SaaS provides training programs for new customers/staff.
-<a href="#demo" data-toggle="collapse">header</a>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
 </div>
-
 
 
 <a href="#demo11" data-toggle="collapse">11. What migration options does the SaaS provider offer?</a>
-
 <div id="demo11" class="collapse">
 How will your import your old data into the new saas. Does your SaaS vendor have proper mappings to import data from well-known applications and formats.  
 </div>
