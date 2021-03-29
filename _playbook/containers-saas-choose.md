@@ -35,21 +35,18 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 <summary>2. Is it a real SaaS?</summary>
 <p>Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
 There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:
-<ul> 
-<li>install special client software on, or  </li>
-<li>needs you to keep parts of the application on-premise,  </li>
-<li>And others where you need to add other products </li>
-</ul>
+- install special client software on, or 
+- needs you to keep parts of the application on-premise, 
+- And others where you need to add other products <
+</p>
 </details>
 
 
 <details open>
 <summary>3. Browsers and Mobility.</summary>
-<ul>
-<li>Browers: You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer. </li> 
-<li>Devices: Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. </li> 
-<li>Responsive: Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.</li> 
-</ul> 
+* Browers: You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.
+* Devices: Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. 
+* Responsive: Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
 </details>
 
 <details open>
