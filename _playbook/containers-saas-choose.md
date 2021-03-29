@@ -84,7 +84,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 </div>
 
 
-<a href="#demo8" data-toggle="collapse">8. What are the IT support requirements?<</a>
+<a href="#demo8" data-toggle="collapse">8. What are the IT support requirements?</a>
 <div id="demo8" class="collapse">
 <strong>Clarity:</strong>  Is the level of support and services the SaaS vendor offers clear? <br>
 <strong>Documented:</strong>  How clearly and thoroughly is the SaaS documentation is written. <br>
@@ -132,3 +132,37 @@ Often new startups have exciting innovative ideas and designs. However it would 
 <div id="demo15" class="collapse">
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.<br>
 </div>
+
+
+<div class="container">
+  <h2>Simple Collapsible</h2>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+  <div id="demo" class="collapse in">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
+    
+
+    <div class="container">
+  <h2>Simple Collapsible</h2>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+  <div id="demo" class="collapse in">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
+    
+
+    <div class="container">
+  <h2>Simple Collapsible</h2>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+  <div id="demo" class="collapse in">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
+    
