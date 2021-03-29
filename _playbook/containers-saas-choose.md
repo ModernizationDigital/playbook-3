@@ -34,7 +34,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 
 
 <details>
-<summary>2. Is it really a SaaS?</summary>
+<summary :arrow_down: Title:titles>2. Is it really a SaaS?</summary>
 
 <p>
 Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
