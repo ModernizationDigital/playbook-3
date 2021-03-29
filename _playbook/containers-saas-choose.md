@@ -167,7 +167,7 @@ How will your import your old data into the new saas. Does your SaaS vendor have
 </div>
 
 
-<a href="#demo12" data-toggle="collapse" icon=arrow_down> 12. What about backup plans? </a>
+<a href="#demo12" data-toggle="collapse" icon="arrow_down"> 12. What about backup plans? </a>
 <div id="demo12" class="collapse">
 Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
 </div>
