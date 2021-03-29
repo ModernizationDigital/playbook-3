@@ -11,10 +11,11 @@ Software as a service (SaaS) is an application distribution model where the soft
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
 #### Key Questions: 
-<details>
-<summary> 1. What are the benefits you expect to get from the intended saas model?</summary>
 
-<p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
+<a href="#demo" data-toggle="collapse">1. What are the benefits you expect to get from the intended saas model?</a>
+
+<div id="demo" class="collapse">
+Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
   <tr>
     <td>Must Haves</td>
@@ -30,10 +31,10 @@ SaaS frees organizations like yours of the burden of hardware and software licen
   </tr>
 </table>
 </p>
-</details>
+</div>
 
 
-<details>
+
 <summary>2. Is it really a SaaS?</summary>
 
 <p>
@@ -42,22 +43,28 @@ There are hybrid solutions that might end up costing you more in the long run. T
 a. install special client software on, or <br>
 b. needs you to keep parts of the application on-premise, <br>
 c. and others where you need to add other products
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>3. Browser and Responsive Behavior.</summary>
 
 <p>
 <strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
 <strong>Responsive:</strong>  Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>4. Plan an Exit Strategy</summary>
 
 <p>
@@ -65,29 +72,38 @@ Digital advances can cause industry giants can become obsolete overnight. You wa
 Can you remove your data if needed? In what format? Get it in writing <br>
 Will they keep a copy of your data? Is that a violation of your privacy regulations?  <br>
 Is it open source? This will allow anyone to be able to edit, fix your code later. <br> 
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>5. Saas Provider Support</summary>
 
 <p>
 Read reviews to see how well their support service is. Ask about escalation proceedures. If possible create a test account, (even if you have to pay for a few weeks trial) and create a few support tickets to see how well their service is.  
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>6. Does the SaaS product play well with others?</summary>
 
 <p>
 The major drive for moving to the cloud is to have better integration options. Look at your chosen provider’s integration options carefully and take all your requirements into account. Can you integrate these or do you need another developer?  
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>7. What is the Saas Service Level Agreement (SLA)?</summary>
 
 <p>
@@ -97,11 +113,14 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 <strong>Availability:</strong> Standard guarantee of availability within business hours. Or you may have a 24/7 business. <br>
 <strong>Consequences:</strong> Consequences of where the SaaS service provider fails to live up to their commitments.  <br>
 <strong>Others:</strong> Every possible misunderstanding in the SLA. <br>
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>8. What are the IT support requirements?</summary>
 
 <p>
@@ -109,44 +128,44 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 <strong>Documented:</strong>  How clearly and thoroughly is the SaaS documentation is written. <br>
 <strong>Your Requirements:</strong>  Can your requirements can be achieved with the SaaS interface, tools, APIs and model. <br>
 <strong>Your Expectations:</strong>  Are your expectations and those of the SaaS provider the same?  <br>
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
+
 <summary>9. Do you have a contingency plan?</summary>
 
 <p>
 What if your Saas provider goes out of business? In the SLA you talk about service outages. But what if the vendor goes out of service for a longer period of time or altogether. How will your keep your appliation/business running? A contingency plan needs to be created in case of total SaaS provider service failure.
-</p>
-</details>
- 
+<a href="#demo" data-toggle="collapse">header</a>
 
-<details>
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
+
+
+
 <summary>10. Can you train your staff?</summary>
 
 <p>
 Implementing SaaS is much easier than traditional software. Still, you want to make sure your SaaS provides training programs for new customers/staff.
-</p>
-</details>
+<a href="#demo" data-toggle="collapse">header</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
 
 
-<details>
-<summary>11. What migration options does the SaaS provider offer?</summary>
 
-<p>
+<a href="#demo11" data-toggle="collapse">11. What migration options does the SaaS provider offer?</a>
+
+<div id="demo11" class="collapse">
 How will your import your old data into the new saas. Does your SaaS vendor have proper mappings to import data from well-known applications and formats.  
-</p>
-</details>
+</div>
 
-
-<details>
-<summary></summary>
-
-<p>
-
-</p>
-</details>
 
 <a href="#demo12" data-toggle="collapse" :arrow_down:>12. What about backup plans? </a>
 
