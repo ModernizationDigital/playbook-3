@@ -161,18 +161,23 @@ Does the SaaS provider give you the option to keep the old version of the softwa
 </p>
 </details>
 
-
-+ This is a first question
++ 15. Are you clear about the innovation and update process?
 -----------------
-This is the first line of an answer to the question above. This is a second line of the answer. 
-
-* Bullet points
-* Can be used too
+The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
+Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward. 
 
 + This is a second question
 -----------------
-This is a one line answer to the question above.
+This is a one line answer to the question above. 
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+   $(document).ready(function(){
+   $('.markdown-block .sqs-block-content h2').css('cursor','pointer');
+   $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideToggle();
+   $(".markdown-block .sqs-block-content h2").click(function() {$(this).nextUntil("h2").slideToggle();});
+   });
+   </script>
 
 
 </hr>
