@@ -29,7 +29,6 @@ SaaS frees organizations like yours of the burden of hardware and software licen
   </tr>
 </table>
 </p>
-
 </details>
 
 
