@@ -35,28 +35,29 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 <details open>
 <summary>2. Is it a real SaaS?</summary>
 <p>Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
-There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:
-- install special client software on, or 
-- needs you to keep parts of the application on-premise, 
-- And others where you need to add other products <
+There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:<br>
+a. install special client software on, or <br>
+b. needs you to keep parts of the application on-premise, <br>
+c. and others where you need to add other products
 </p>
 </details>
 
 
 <details open>
 <summary>3. Browsers and Mobility.</summary>
-* Browers: You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.
-* Devices: Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. 
-* Responsive: Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
+<br>
+<strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.
+<strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
+<strong>Responsive:</strong>  Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
 </details>
 
 <details open>
 <summary>4. Exit Strategy</summary>
 <p>
 Digital advances can cause industry giants can become obsolete overnight. You want to make sure that you can protect your application as technology and trends change.  
-* Can you remove your data if needed? In what format? Get it in writing 
-* Will they keep a copy of your data? Is that a violation of your privacy regulations?  
-* Is it open source? This will allow anyone to be able to edit, fix your code later.  
+Can you remove your data if needed? In what format? Get it in writing <br>
+Will they keep a copy of your data? Is that a violation of your privacy regulations?  <br>
+Is it open source? This will allow anyone to be able to edit, fix your code later. <br> 
 </p>
 </details>
 
