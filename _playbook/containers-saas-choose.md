@@ -14,7 +14,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 #### Key Questions: 
 <details open>
 <summary>1. What are the benefits you expect to get from the intended saas model?</summary>
-<p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]</p>
+<p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
   <tr>
     <td>Must Haves</td>
@@ -29,6 +29,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
     <td></td>
   </tr>
 </table>
+</p>
 </details>
 
 <details open>
