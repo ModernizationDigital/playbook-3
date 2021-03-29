@@ -8,6 +8,9 @@
   - containers-standardized
   - containers-how-do-they-work
   - containers-implementation
+  - containers-journey
+  - containers-inventory-app
+  - containers-saas-choose
 - title: data-integration
   children:
   - data-storage
