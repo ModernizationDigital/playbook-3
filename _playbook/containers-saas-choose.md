@@ -186,3 +186,29 @@ Does the SaaS provider give you the option to keep the old version of the softwa
 <div id="demo" class="collapse">
 Lorem ipsum dolor text....
 </div>
+
+
+<a href="#demo" data-toggle="collapse">Collapsible</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
+
+
+<div id="demo" class="collapse in">
+Lorem ipsum dolor text....
+</div>
+
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse1">Collapsible panel</a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body">Panel Body</div>
+      <div class="panel-footer">Panel Footer</div>
+    </div>
+  </div>
+</div>
