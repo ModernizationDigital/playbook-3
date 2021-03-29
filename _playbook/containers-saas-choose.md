@@ -166,4 +166,20 @@ Does the SaaS provider give you the option to keep the old version of the softwa
 </details>
 <br>
 
+<details>
+    <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
+    <!-- have to be followed by an empty line! -->
 
+A bit more than normal indentation is necessary to get the nesting correct,
+ 1. list
+ 1. with
+    1. nested
+    1. items
+        ```java
+        // including code
+        ```
+    1. blocks
+ 1. and continued non-nested
+
+  </details>
+</details>
