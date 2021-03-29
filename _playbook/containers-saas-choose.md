@@ -161,25 +161,5 @@ Does the SaaS provider give you the option to keep the old version of the softwa
 </p>
 </details>
 
-+ 15. Are you clear about the innovation and update process?
------------------
-The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
-Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward. 
-
-+ This is a second question
------------------
-This is a one line answer to the question above. 
-
-<script src="js/collapse.js"></script>
-
-<script src=".../js/collapse.js"></script>
-</hr>
-
-<details open>
-<summary>Content</summary>
-<p>
-
-</p>
-</details>
 
 
