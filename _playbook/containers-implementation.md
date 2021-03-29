@@ -48,7 +48,7 @@ How much work and effort are you able to invest? Containers are a great solution
 <details>
   <summary markdown="span">How to source Saas product to meet your needs</summary>
 <p>
-
+<br>
 Software as a service (SAAS) is an application distribution model where the software is hosted, maintained and updated by a third-party provider on their own servers and made available to organizations or individuals to be used over the internet. Examples of providers are AWS & Azure. Popular examples of Saas products are: gmail, google drive and nearly every software that runs on your browser and is targeted to the end user.  
 
 #### How can Saas help you? 
@@ -59,12 +59,12 @@ As a cloud application saas are easily scaled up or down with minimal costs. Whe
 #### Key Questions: 
 
 1. What are the benefits you expect to get from the intended saas model. Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? 
-
+- - -
 | What the Must Haves | What are the Nice to Haves| 
 | -------------------------- | -------------------------- | 
 |                                      |                                     | 
 |                                      |                                     | 
-
+- - -
 2. Is it a real SaaS? 
 There are hybrid solutions that might end up costing you more in the long run, they might ask you to do some of the following additional work:  
 * install special client software on, or  
@@ -79,14 +79,12 @@ Real SaaS solutions usually just need a browser to run, and everything else is d
 * Responsive: Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.  
 
 4. Exit Strategy 
-
 Digital advances can cause industry giants can become obsolete overnight. You want to make sure that you can protect your application as technology and trends change.  
 * Can you remove your data if needed? In what format? Get it in writing 
 * Will they keep a copy of your data? Is that a violation of your privacy regulations?  
 * Is it open source? This will allow anyone to be able to edit, fix your code later.  
 
 5. Saas provider support 
-
 Read reviews to see how well their support service is.  
 </p>
 </details>
