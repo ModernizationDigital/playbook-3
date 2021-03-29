@@ -11,7 +11,7 @@ Software as a service (SaaS) is an application distribution model where the soft
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
 #### Key Questions: 
-<details>:arrow_down_small:<summary:arrow_down_small:> 1. What are the benefits you expect to get from the intended saas model?</summary>
+<details>:arrow_down_small:<summary:arrow_down_small;> 1. What are the benefits you expect to get from the intended saas model?</summary>
 
 <p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -32,7 +32,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 </details>
 
 
-<details :arrow_down_small:>
+<details :arrow_down_small;>
 
 <summary title:>2. Is it really a SaaS?</summary>
 <p>
@@ -47,7 +47,7 @@ c. and others where you need to add other products
 
 
 <details>
-<summary><icon:arrow_down_small:>3. Browser and Responsive Behavior.</summary>
+<summary><icon:arrow_down_small;>3. Browser and Responsive Behavior.</summary>
 <p>
 <strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
@@ -156,7 +156,7 @@ Often new startups have exciting innovative ideas and designs. However it would 
 
 
 <details>
-<summary>15. Are you clear about the innovation and update process? </summary>
+<summary &#8595;>15. Are you clear about the innovation and update process? </summary>
 <p>
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. 
 Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward. 
