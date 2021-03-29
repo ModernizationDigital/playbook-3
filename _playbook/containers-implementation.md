@@ -65,6 +65,29 @@ Key Questions:
 |                                      |                                     | 
 <br> 
 
+2. Is it a real SaaS? 
+There are hybrid solutions that might end up costing you more in the long run, they might ask you to do some of the following additional work:  
+* install special client software on, or  
+* needs you to keep parts of the application on-premise,  
+* And others where you need to add other products 
+
+Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
+
+3. Browsers and Mobility.  
+* Browers: You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.  
+* Devices: Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have.  
+* Responsive: Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.  
+
+4. Exit Strategy 
+
+Digital advances can cause industry giants can become obsolete overnight. You want to make sure that you can protect your application as technology and trends change.  
+* Can you remove your data if needed? In what format? Get it in writing 
+* Will they keep a copy of your data? Is that a violation of your privacy regulations?  
+* Is it open source? This will allow anyone to be able to edit, fix your code later.  
+
+5. Saas provider support 
+
+Read reviews to see how well their support service is.  
 </p>
 </details>
 
