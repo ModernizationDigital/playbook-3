@@ -159,9 +159,9 @@ Beware of hidden costs. Costs are rarely fixed and vary based on different facto
 
 
 
-<button data-toggle="collapse" data-target="#demo">14. Have you balanced new ideas with experienced vendors?</button>
+<button data-toggle="collapse" data-target="#demo1">14. Have you balanced new ideas with experienced vendors?</button>
 
-<div id="demo" class="expand">
+<div id="demo1" class="expand">
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
 </div>
 <br>
