@@ -38,8 +38,9 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 <details>
 
 <summary :arrow_down_small:>2. Is it really a SaaS?</summary>
+<p>
 
-<p>Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
+Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
 There are hybrid solutions that might end up costing you more in the long run. The following list mentions additional work they could ask from you:<br>
 a. install special client software on, or <br>
 b. needs you to keep parts of the application on-premise, <br>
