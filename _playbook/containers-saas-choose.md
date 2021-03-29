@@ -11,9 +11,9 @@ Software as a service (SaaS) is an application distribution model where the soft
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
 #### Key Questions: 
-<details>
+<details icon:arrow_down_small:>
 
-<summary icon:arrow_down_small:> 1. What are the benefits you expect to get from the intended saas model?</summary>
+<summary> 1. What are the benefits you expect to get from the intended saas model?</summary>
 
 <p>Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -50,7 +50,7 @@ c. and others where you need to add other products
 
 
 <details>
-<summary><image:arrow_down_small:>3. Browser and Responsive Behavior.</summary>
+<summary>3. Browser and Responsive Behavior.</summary>
 <p>
 <strong>Browers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
