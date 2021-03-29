@@ -136,8 +136,8 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
 <div class="container">
   <h2>Simple Collapsible</h2>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse in">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demoE">Simple collapsible</button>
+  <div id="demoE" class="collapse in">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -147,8 +147,8 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
     <div class="container">
   <h2>Simple Collapsible</h2>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse in">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demoD">Simple collapsible</button>
+  <div id="demoD" class="collapse in">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -158,8 +158,8 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
     <div class="container">
   <h2>Simple Collapsible</h2>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse in">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demoC">Simple collapsible</button>
+  <div id="demoC" class="collapse in">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -173,8 +173,8 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
     <div class="container">
   <h2>Simple Collapsible</h2>
-  <button type="button" class="btn btn-lg btn-info collapsed" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse">
+  <button type="button" class="btn btn-lg btn-info collapsed" data-toggle="collapse" data-target="#demoA">Simple collapsible</button>
+  <div id="demoA" class="collapse">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -184,8 +184,8 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
 <div class="container">
   <h2>Simple Collapsible</h2>
-  <button type="button" class="btn btn-lg btn-info collapsed" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse">
+  <button type="button" class="btn btn-lg btn-info collapsed" data-toggle="collapse" data-target="#demoB">Simple collapsible</button>
+  <div id="demoB" class="collapse">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
