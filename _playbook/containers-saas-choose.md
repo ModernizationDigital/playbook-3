@@ -12,7 +12,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 
 #### Key Questions: 
 <div class="container">
-<a href="#demo1" data-toggle="collapse" i.icon="\f078">1. What are the benefits you expect to get from the intended saas model?</a>
+<a href="#demo1" data-toggle="collapse">1. What are the benefits you expect to get from the intended saas model?</a>
 <div id="demo1" class="collapse">
 Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -33,7 +33,6 @@ Detail the benefits you expect to get from your saas. What are the must-haves an
 
 
 
-<div class="container">
 <a href="#demo2" data-toggle="collapse">2. Is it really a SaaS?</a>
 <div id="demo2" class="collapse">
 Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
@@ -44,7 +43,6 @@ c. and others where you need to add other products
 </div>
 </div>
 
-<div class="container">
 <a href="#demo3" data-toggle="collapse">3. Browser and Responsive Behavior.</a>
 <div id="demo3" class="collapse">
 <strong>Browsers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
