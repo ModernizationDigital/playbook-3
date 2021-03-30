@@ -57,19 +57,19 @@ c. and others where you need to add other products
 Digital advances can cause industry giants can become obsolete overnight. You want to make sure that you can protect your application as technology and trends change. <br>  
 Can you remove your data if needed? In what format? Get it in writing <br>
 Will they keep a copy of your data? Is that a violation of your privacy regulations?  <br>
-Is it open source? This will allow anyone to be able to edit, fix your code later.<br>
+Is it open source? This will allow anyone to be able to edit, fix your code later.
 </div>
 
 
 <a href="#demo5" data-toggle="collapse">5. Saas Provider Support</a>
 <div id="demo5" class="collapse">
-Read reviews to see how well their support service is. Ask about escalation proceedures. If possible create a test account, (even if you have to pay for a few weeks trial) and create a few support tickets to see how well their service is. <br> 
+Read reviews to see how well their support service is. Ask about escalation proceedures. If possible create a test account, (even if you have to pay for a few weeks trial) and create a few support tickets to see how well their service is. 
 </div>
 
 
 <a href="#demo6" data-toggle="collapse">6. Does the SaaS product play well with others?</a>
 <div id="demo6" class="collapse">
-The major drive for moving to the cloud is to have better integration options. Look at your chosen provider’s integration options carefully and take all your requirements into account. Can you integrate these or do you need another developer?  <br>
+The major drive for moving to the cloud is to have better integration options. Look at your chosen provider’s integration options carefully and take all your requirements into account. Can you integrate these or do you need another developer? 
 </div>
 
 
@@ -80,7 +80,7 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 <strong>Consequences:</strong> It clearly states the consequences of failing to live up to the promised standards (what happens when there are outage times? What if you lose business or clients because of outage times). <br>
 <strong>Availability:</strong> Standard guarantee of availability within business hours. Or you may have a 24/7 business. <br>
 <strong>Consequences:</strong> Consequences of where the SaaS service provider fails to live up to their commitments.  <br>
-<strong>Others:</strong> Every possible misunderstanding in the SLA.<br>
+<strong>Others:</strong> Every possible misunderstanding in the SLA.
 </div>
 
 
@@ -89,36 +89,36 @@ The Service Level Agreement (SLA) is where the SaaS provider clearly states the 
 <strong>Clarity:</strong>  Is the level of support and services the SaaS vendor offers clear? <br>
 <strong>Documented:</strong>  How clearly and thoroughly is the SaaS documentation is written. <br>
 <strong>Your Requirements:</strong>  Can your requirements can be achieved with the SaaS interface, tools, APIs and model. <br>
-<strong>Your Expectations:</strong>  Are your expectations and those of the SaaS provider the same? <br> 
+<strong>Your Expectations:</strong>  Are your expectations and those of the SaaS provider the same? 
 </div>
 
 <a href="#demo9" data-toggle="collapse">9. Do you have a contingency plan?</a>
 <div id="demo9" class="collapse">
-What if your Saas provider goes out of business? In the SLA you talk about service outages. But what if the vendor goes out of service for a longer period of time or altogether. How will your keep your appliation/business running? A contingency plan needs to be created in case of total SaaS provider service failure.<br>
+What if your Saas provider goes out of business? In the SLA you talk about service outages. But what if the vendor goes out of service for a longer period of time or altogether. How will your keep your appliation/business running? A contingency plan needs to be created in case of total SaaS provider service failure.
 </div>
 
 
 <a href="#demo10" data-toggle="collapse">10. Can you train your staff?</a>
 <div id="demo10" class="collapse">
-Implementing SaaS is much easier than traditional software. Still, you want to make sure your SaaS provides training programs for new customers/staff.<br>
+Implementing SaaS is much easier than traditional software. Still, you want to make sure your SaaS provides training programs for new customers/staff.
 </div>
 
 
 <a href="#demo11" data-toggle="collapse">11. What migration options does the SaaS provider offer?</a>
 <div id="demo11" class="collapse">
-How will your import your old data into the new saas. Does your SaaS vendor have proper mappings to import data from well-known applications and formats. <br> 
+How will your import your old data into the new saas. Does your SaaS vendor have proper mappings to import data from well-known applications and formats. 
 </div>
 
 
 <a href="#demo12" data-toggle="collapse"> 12. What about backup plans? </a>
 <div id="demo12" class="collapse">
-Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. <br>
+Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
 </div>
 
 
 <a href="#demo13" data-toggle="collapse">13. What is the pricing model?</a>
 <div id="demo13" class="collapse">
-Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. <br>
+Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. 
 </div>
 
 
@@ -132,7 +132,6 @@ Often new startups have exciting innovative ideas and designs. However it would 
 <div id="demo15" class="button8">
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.
 </div>
-<br>
 </div>
 
 <button type="button" class="button8" data-toggle="collapse" data-target="#demo12b">12. What about backup plans?</button>
