@@ -29,31 +29,18 @@
   display: inline-block;
 }
 
-a.btn-btn-info {
-  /* override datawire.css styles */
-  padding: 0;
-  border: none;
-  /* button styling */
-  padding: 8px 12px 6px;
-  color: #3C474F;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 1);
-  font-weight: bold;
-  line-height: 1;
-  border: 1px solid #AAB1B5;
-  background-color: #DEE1E3;
-}
 
 a.button8 {
   display: inline-block;
   padding: 0.2em 1.45em;
   margin: 0.1em;
-  border: 0.15em solid #CCCCCC;
+  border: 0.15em solid #811d1d;
   box-sizing: border-box;
   text-decoration: none;
   font-family:'Segoe UI','Roboto',sans-serif;
   font-weight: 400;
   color:#000000;
-  background-color:#CCCCCC;
+  background-color:#772c2c;
   text-align:center;
   position:relative;
   }
