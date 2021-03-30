@@ -12,7 +12,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 
 #### Key Questions: 
 
-<a href="#demo1" data-toggle="collapse">1. What are the benefits you expect to get from the intended saas model?</a>
+<a href="#demo1" data-toggle="collapse" i.icon="f078">1. What are the benefits you expect to get from the intended saas model?</a>
 <div id="demo1" class="collapse">
 Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
