@@ -130,41 +130,45 @@ Often new startups have exciting innovative ideas and designs. However it would 
 
 <a href="#demo15" data-toggle="collapse">15. Are you clear about the innovation and update process?</a>
 <div id="demo15" class="button8">
-The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.<br>
+The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.
 </div>
-
+<br>
 
 
 <div class="container">
-  <button type="button" class="button12b" data-toggle="collapse" data-target="#demo13b">12. What about backup plans?</button>
-  <div id="demo12b" class="collapse in">
+  <button type="button" class="collapse" data-toggle="collapse" data-target="#demo13b">12. What about backup plans?</button>
+  <div id="demo12b" class="collapse">
 Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
   </div>
+  <br>
 </div>
 
 
 
 <div class="container">
-  <button type="button" class="button14" data-toggle="collapse" data-target="#demo13b">13. What is the pricing model?</button>
+  <button type="button" class="button8" data-toggle="collapse" data-target="#demo13b">13. What is the pricing model?</button>
   <div id="demo13b" class="collapse in">
 Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print.
   </div>
+  <br>
 </div>
 
 
 <div class="container">
-  <button type="button" class="button14" data-toggle="collapse" data-target="#demo14b">14. Have you balanced new ideas with experienced vendors?</button>
+  <button type="button" class="button8" data-toggle="collapse" data-target="#demo14b">14. Have you balanced new ideas with experienced vendors?</button>
   <div id="demo14b" class="collapse in">
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
   </div>
+  <br>
 </div>
 
 
 <div class="container">
   <button type="button" class="button15" data-toggle="collapse" data-target="#demo15b">15. Are you clear about the innovation and update process?</button>
   <div id="demo15b" class="collapse in">
-The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.
+The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor. Do you need to create an personalized agreement with the vendor before moving forward.
   </div>
+  <br>
 </div>
 
 
