@@ -13,6 +13,8 @@ Like we said in the previous section, using Containers as your modernization met
 
 <strong>Step II: What do you want?:</strong> At a high level, let's start thinking about what you want to do. Is your app still relevant? Do you need the data it holds? What was it's original purpose. How much effort does it make sense to put into modernizing it? <br>
 
+<strong>Step III: Effort:</strong>How much money is in our budget for our modernization? How much time do we want to spend. Are you ready for the complete overhaul of you app to make it truly cloud native. Time and Money are essentially the same. It's okay to just want this done to say its done. It's okay if you don't have the budget today to do everything. This is why we need options. Try and be clear and pragmatic about why you are modernizing and how much you can handle today. <br>
+
 <strong>Step IV: Pick a Service Level:</strong> In an earlier section — Evaluation Modernization — we looked at the different options for modernization. Initially we need to decide if we want to keep our app. The level of effort we've decided will determine our direction, minmal,low cost of major and high cost. If you are lookign for minimal effort, minimal cost containers might fit your plan. <br>
 
 
@@ -23,4 +25,4 @@ Like we said in the previous section, using Containers as your modernization met
 
 <strong>Step VII: Assess your users: </strong>Another key consideration is your users. Who are they? Are there enought to warrant modernization. What modernization process would best suit your users needs? You might want to consider if containerization will enhance their experience. <br>
 
-After considering these key concern do you think Containers are the right solution for your application modernization? That's great. Now we have to start the Cloud migration process. You may want to reach out to OneTeam to see the pattern that they have used to make containerization a success. 
+After considering these key concerns, do you think Containers are the right solution for your application modernization? That's great. Now we have to start the Cloud migration process. You may want to reach out to OneTeam to see the pattern that they have used to make containerization a success. 
