@@ -12,7 +12,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 
 #### Key Questions: 
 
-<a href="#demo1" data-toggle="collapse" i.icon="f078">1. What are the benefits you expect to get from the intended saas model?</a>
+<a href="#demo1" data-toggle="collapse" i.icon=\f078>1. What are the benefits you expect to get from the intended saas model?</a>
 <div id="demo1" class="collapse">
 Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -122,13 +122,13 @@ Beware of hidden costs. Costs are rarely fixed and vary based on different facto
 </div>
 
 
-<a href="#demo14" data-toggle="collapse" i.icon=":arrow_down:">14. Have you balanced new ideas with experienced vendors?</a>
+<a href="#demo14" data-toggle="collapse" i.icon=:arrow_down:>14. Have you balanced new ideas with experienced vendors?</a>
 <div id="demo14" class="collapse">
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
 </div>
 
 
-<a href="#demo15" data-toggle="collapse" image=":arrow_down:">15. Are you clear about the innovation and update process?</a>
+<a href="#demo15" data-toggle="collapse" image=:arrow_down:>15. Are you clear about the innovation and update process?</a>
 <div id="demo15" class="collapse">
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor.  Do you need to create an personalized agreement with the vendor before moving forward.<br>
 </div>
