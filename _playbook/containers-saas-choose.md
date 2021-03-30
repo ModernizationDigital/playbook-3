@@ -145,4 +145,25 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 </div>
     
 
+<div class="container">
+  <h2>Simple Collapsible</h2>
+  <button type="button" class="button8" data-toggle="collapse" data-target="#demoj">Simple collapsible</button>
+  <div id="demoj" class="collapse in">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
+
+
+<div class="container">
+  <h2>Simple Collapsible</h2>
+  <button type="button" class="button8" data-toggle="collapse" data-target="#demoh">Simple collapsible</button>
+  <div id="demoh" class="collapse in">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
+
 <a href="something" class="button8">New document</a>
