@@ -41,7 +41,7 @@ a. install special client software on, or <br>
 b. needs you to keep parts of the application on-premise, <br>
 c. and others where you need to add other products
 </div>
-</div>
+
 
 <a href="#demo3" data-toggle="collapse">3. Browser and Responsive Behavior.</a>
 <div id="demo3" class="collapse">
@@ -49,7 +49,7 @@ c. and others where you need to add other products
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
 <strong>Responsive:</strong>  Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
 </div>
-</div>
+
 
 
 <a href="#demo4" data-toggle="collapse">4. Plan an Exit Strategy</a>
