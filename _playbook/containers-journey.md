@@ -13,6 +13,14 @@ Like we said in the previous section, using Containers as your modernization met
 
 <strong>Step II: What do you want?:</strong> At a high level, let's start thinking about what you want to do. Is your app still relevant? Do you need the data it holds? What was it's original purpose. How much effort does it make sense to put into modernizing it? <br>
 
-<strong>Step III: What's your effort?:</strong> How much time and how much money do you want to invest in your app? Do you have the budget to make your app fully cloud native or do you just need to get it migrated yesterday? Does your enterprise have a mandate to migrate to the cloud yesterday and you just need a finished product?<br>
+<strong>Step IV: Pick a Service Level:</strong> In an earlier section — Evaluation Modernization — we looked at the different options for modernization. Initially we need to decide if we want to keep our app. The level of effort we've decided will determine our direction, minmal,low cost of major and high cost. If you are lookign for minimal effort, minimal cost containers might fit your plan. <br>
 
 
+<strong>Step V: Learn about SaaS  :</strong>There might be scenarios where a pre-made application is a better solution for you. Maybe you have limited users? Maybe containes won't solve your problems, maybe your hardware can't be containerized. One of the following sections, details what you will need to think about if you are looking to use a Saas product to replace your app. <br>
+
+
+<strong>Step VI: Detail you App   :</strong> This step and the following step are interchangeable. You will need to fully review your app to figure out your needs, and compare it with what containers and cloud services can do for you. This inventory will also aid in your assessement of replacing your app with a SaaS application. The following section provides an example of a pre migration checklist for the assessment of your app. <br>
+
+<strong>Step VII: Assess your users: </strong>Another key consideration is your users. Who are they? Are there enought to warrant modernization. What modernization process would best suit your users needs? You might want to consider if containerization will enhance their experience. <br>
+
+After considering these key concern do you think Containers are the right solution for your application modernization? That's great. Now we have to start the Cloud migration process. You may want to reach out to OneTeam to see the pattern that they have used to make containerization a success. 
