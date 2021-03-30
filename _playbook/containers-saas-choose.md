@@ -136,7 +136,7 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 
 
 <div class="container">
-  <button type="button" class="collapse" data-toggle="collapse" data-target="#demo13b">12. What about backup plans?</button>
+  <button type="button" class="button8" data-toggle="collapse" data-target="#demo13b">12. What about backup plans?</button>
   <div id="demo12b" class="collapse">
 Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. 
   </div>
@@ -164,7 +164,7 @@ Often new startups have exciting innovative ideas and designs. However it would 
 
 
 <div class="container">
-  <button type="button" class="button15" data-toggle="collapse" data-target="#demo15b">15. Are you clear about the innovation and update process?</button>
+  <button type="button" class="button8" data-toggle="collapse" data-target="#demo15b">15. Are you clear about the innovation and update process?</button>
   <div id="demo15b" class="collapse in">
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor. Do you need to create an personalized agreement with the vendor before moving forward.
   </div>
