@@ -12,7 +12,7 @@ SaaS frees organizations like yours of the burden of hardware and software licen
 
 #### Key Questions: 
 
-<a href="#demo1" data-toggle="collapse" i.icon=\f078>1. What are the benefits you expect to get from the intended saas model?</a>
+<a href="#demo1" data-toggle="collapse" i.icon="\f078">1. What are the benefits you expect to get from the intended saas model?</a>
 <div id="demo1" class="collapse">
 Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
 <table>
@@ -110,7 +110,7 @@ How will your import your old data into the new saas. Does your SaaS vendor have
 </div>
 
 
-<a href="#demo12" data-toggle="collapse" icon="arrow_down"> 12. What about backup plans? </a>
+<a href="#demo12" data-toggle="collapse"> 12. What about backup plans? </a>
 <div id="demo12" class="collapse">
 Once you've migrated can your Saas provider guarantee data integrity and prevent data loss. Ask if your SaaS provider has its own backup plan to counter possible human error or service outage. Alternatively you can also ask them to provide you an interface to create your own backups. <br>
 </div>
