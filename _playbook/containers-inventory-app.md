@@ -10,7 +10,7 @@ Data
 Users
 Harware
 Dependencies
-Liscences
+Licenses
 
 - - -
 
