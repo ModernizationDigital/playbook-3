@@ -11,7 +11,7 @@ Software as a service (SaaS) is an application distribution model where the soft
 SaaS frees organizations like yours of the burden of hardware and software license acquisitions, and removes the need for managing software. This model enables you to “rent” an application as you us and minimizes your IT needs. A variety of licensing models give you better budget planning options. The pay-as-you-go model allows you to keep your operational expenses in proportion your growth. As a cloud application saas are easily scaled up or down with minimal costs. When your business grows or decreases you don’t have to worry much about acquisitions and implementations of hardware. 
 
 #### Key Questions: 
-
+<div class="container">
 <a href="#demo1" data-toggle="collapse" i.icon="\f078">1. What are the benefits you expect to get from the intended saas model?</a>
 <div id="demo1" class="collapse">
 Detail the benefits you expect to get from your saas. What are the must-haves and nice-to-haves? [maybe create this so the user can input this and print or save as pdf]
@@ -30,9 +30,10 @@ Detail the benefits you expect to get from your saas. What are the must-haves an
   </tr>
 </table>
 </div>
+<div>
 
 
-
+<div class="container">
 <a href="#demo2" data-toggle="collapse">2. Is it really a SaaS?</a>
 <div id="demo2" class="collapse">
 Real SaaS solutions usually just need a browser to run, and everything else is done in the cloud. 
@@ -41,15 +42,16 @@ a. install special client software on, or <br>
 b. needs you to keep parts of the application on-premise, <br>
 c. and others where you need to add other products
 </div>
+</div>
 
-
+<div class="container">
 <a href="#demo3" data-toggle="collapse">3. Browser and Responsive Behavior.</a>
 <div id="demo3" class="collapse">
 <strong>Browsers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
 <strong>Responsive:</strong>  Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
 </div>
-
+</div>
 
 
 <a href="#demo4" data-toggle="collapse">4. Plan an Exit Strategy</a>
@@ -156,15 +158,14 @@ Beware of hidden costs. Costs are rarely fixed and vary based on different facto
 
 
 <button type="button" class="button8" data-toggle="collapse" data-target="#demo14b">14. Have you balanced new ideas with experienced vendors?</button>
-<div id="demo14b" class="collapse in">
+<div id="demo14b" class="collapse">
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
 </div>
 <br>
 
 
-
 <button type="button" class="button8" data-toggle="collapse" data-target="#demo15b">15. Are you clear about the innovation and update process?</button>
-<div id="demo15b" class="collapse in">
+<div id="demo15b" class="collapse">
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor. Do you need to create an personalized agreement with the vendor before moving forward.
 </div>
 <br>
