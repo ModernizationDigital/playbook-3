@@ -6,14 +6,14 @@ title: 'User Journey'
 #### Needs imagery, and content 
 
 
-Investigate: You might be at this stage; or closer to adoption if you are reading this 
-Figure out your goals: 
-Determine your effort level: Cost and time will determine your level of modernization. Lift & Shift, Optimize, fully reArchitect
-Inventory: Gathering details of your current application [checklist]
-Saas Exploration: This is where you look at the possiblity of what 
-Make a decision:
-Call the experts:
-Set a date:
+<strong>Investigate:</strong> You might be at this stage; or closer to adoption if you are reading this <br>
+<strong>Figure out your goals:</strong> <br>
+<strong>Determine your effort level:</strong> Cost and time will determine your level of modernization. Lift & Shift, Optimize, fully reArchitect<br>
+<strong>Inventory:</strong> Gathering details of your current application [checklist]<br>
+<strong>Saas Exploration:</strong> This is where you look at the possiblity of what <br>
+<strong>Make a decision:</strong>   <br>
+<strong>Call the experts:</strong>   <br>
+<strong>Set a date:</strong>   <br>
 
 
 
