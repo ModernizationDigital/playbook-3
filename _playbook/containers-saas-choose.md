@@ -134,4 +134,6 @@ Often new startups have exciting innovative ideas and designs. However it would 
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor. Do you need to create an personalized agreement with the vendor before moving forward.
 </div>
 <br>
+
 </div>
+<br>
