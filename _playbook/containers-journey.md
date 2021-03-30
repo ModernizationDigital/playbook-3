@@ -14,7 +14,7 @@ title: 'User Journey'
 <strong>Make a decision:</strong>   <br>
 <strong>Call the experts:</strong>   <br>
 <strong>Set a date:</strong>   <br>
-
+![user journey]({{site.baseurl}}/images/userJourney.png) 
 
 
 
