@@ -16,13 +16,6 @@ Sometimes older applications have outdated technologies, and or licensing agreem
 
 Containers make it easy to package your entire application and move it to the cloud without needing to make any code changes. If you want to keep your app, there isn't a prebuilt solution and you don't have the resources, or reasons to rebuild it. This would be a good solution.  
 
-So if you've decided: Containers ARE the answer to all my problems!!! Then we'll need some details. 
-
-#### add or leave out?
-
-How much work and effort are you able to invest? Containers are a great solution if you don't have the ability or resources to totally overhaul your app. With a container solution you'll have the ability to modernize your app enough to move it to the cloud and have access to cloud capabilities. It will not be cloud native, but it's a step in the right direction. Containers are also a great way to start your modernization, and then you can come back to the containerized app at a future date to see if you want to further enhance its cloud capabilities.  
-
-
 - - -
 
 | What Containers can do for you    | What Containers cannot do |
