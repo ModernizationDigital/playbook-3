@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'What to Expect'
+title: 'User Journey'
 ---
 
 #### Needs imagery, and content 
