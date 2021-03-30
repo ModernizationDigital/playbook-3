@@ -145,5 +145,5 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 </div>
     
 
-    <a href="something" class="button8">New document</a>
+<a href="something" class="button8">New document</a>
 <a href="something" class="button8">Cancel</a>
