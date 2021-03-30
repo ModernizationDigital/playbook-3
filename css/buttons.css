@@ -29,7 +29,7 @@
   display: inline-block;
 }
 
-.btn-btn-info {
+a.btn-btn-info {
   /* override datawire.css styles */
   padding: 0;
   border: none;
