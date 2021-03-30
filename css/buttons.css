@@ -28,3 +28,17 @@
   top: -1px;
   display: inline-block;
 }
+
+.btn-btn-info {
+  /* override datawire.css styles */
+  padding: 0;
+  border: none;
+  /* button styling */
+  padding: 8px 12px 6px;
+  color: #3C474F;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 1);
+  font-weight: bold;
+  line-height: 1;
+  border: 1px solid #AAB1B5;
+  background-color: #DEE1E3;
+}
