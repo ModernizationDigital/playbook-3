@@ -11,24 +11,7 @@ This standardization allowed the containers to be efficiently stacked. Consisten
 ![Standardized Shipping Container]({{site.baseurl}}/images/shipping.png) 
 Like the shipping industry, Cloud Computing has standardized containers. And this makes everyones' job easier.  
 
-
-<details><summary markdown="span">Standardization and Trade Routes!</summary>
-  
-<p>
-I need to create a proper collapse & expand for this. For the past century the width of the Panama canal has driven the standardized size ships are built. Today, gobal warming has opened a new trade route above Canada. Last year about 20 oversized ships used this new trade route. This is the first time those oversized ships have been able to reach the west coast of North America. Now people can build bigger boats. A new trade route makes things trickier. Since 1977 the Canal has been under a permanent Neutrality agreement, meaning every country must be allowed to use it. Canada's new trade route has no such agreement. a Hippie, waving a Canadian flag on a freighter ship
-</p>
-</details>
-
-<div class="container">
-<a href="#demo1c" data-toggle="collapse">Standardization and Trade Routes!</a>
-<div id="demo1c" class="collapse">
-For the past century the width of the Panama canal has driven the standardized size ships are built. Today, gobal warming has opened a new trade route above Canada. Last year about 20 oversized ships used this new trade route. This is the first time those oversized ships have been able to reach the west coast of North America. Now people can build bigger boats. A new trade route makes things trickier. Since 1977 the Canal has been under a permanent Neutrality agreement, meaning every country must be allowed to use it. Canada's new trade route has no such agreement. a Hippie, waving a Canadian flag on a freighter ship
-</div>
-
-
-
 <a href="#demo1f" data-toggle="collapse">Standardization and Trade Routes!</a>
 <div id="demo1f" class="collapse">
 For the past century the width of the Panama canal has driven the standardized size ships are built. Today, gobal warming has opened a new trade route above Canada. Last year about 20 oversized ships used this new trade route. This is the first time those oversized ships have been able to reach the west coast of North America. Now people can build bigger boats. A new trade route makes things trickier. Since 1977 the Canal has been under a permanent Neutrality agreement, meaning every country must be allowed to use it. Canada's new trade route has no such agreement. a Hippie, waving a Canadian flag on a freighter ship
-</div>
 </div>
