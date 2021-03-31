@@ -118,7 +118,7 @@ Once you've migrated can your Saas provider guarantee data integrity and prevent
 <br>
 
 <a href="#demo13" data-toggle="collapse">13. What is the pricing model?</a>
-<div id="demo13" class="collapse">
+<div id="demo13" class="collapse" max-width="100">
 Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. 
 </div>
 <br>
