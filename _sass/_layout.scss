@@ -247,31 +247,53 @@
  * Mar 2021
  */
 
- .read-more-state {
+ .show-hide {
+    text-align:center;
+  }
+  .read-more-wrap {
+    opacity:1;
+    -moz-transition: opacity 0.4s ease-in-out;
+      -o-transition: opacity 0.4s ease-in-out;
+      -webkit-transition: opacity 0.4s ease-in-out;
+      transition: opacity 0.4s ease-in-out;
+  }
+  .show-hide p {
+    margin-top:15px;
+    max-width:800px;
+    margin:0 auto;
+    text-align:left;
+  }
+  .read-more-state {
     display: none;
-   }
-   
-   .read-more-target {
+  
+  }
+  
+  .read-more-target {
+    margin-top:2rem;
     opacity: 0;
     max-height: 0;
     font-size: 0;
-   }
-   
-   .read-more-state:checked ~ .read-more-wrap .read-more-target {
+    -moz-transition: opacity 0.4s ease-in-out;
+      -o-transition: opacity 0.4s ease-in-out;
+      -webkit-transition: opacity 0.4s ease-in-out;
+      transition: opacity 0.4s ease-in-out;
+  }
+  
+  .read-more-state:checked ~ .read-more-wrap .read-more-target {
     opacity: 1;
     font-size: inherit;
     max-height: 999em;
-   }
-   
-   .read-more-state ~ .read-more-trigger:before {
+  }
+  
+  .read-more-state ~ .read-more-trigger:before {
     content: 'Read More';
-   }
-   
-   .read-more-state:checked ~ .read-more-trigger:before {
+  }
+  
+  .read-more-state:checked ~ .read-more-trigger:before {
     content: 'Read Less';
-   }
-   
-   .read-more-trigger {
+  }
+  
+  .read-more-trigger {
     cursor: pointer;
     display: inline-block;
     padding: 0 .5em;
@@ -280,9 +302,11 @@
     line-height: 2;
     border: 1px solid #ddd;
     border-radius: .25em;
-   }
-   .read-more-trigger:hover {
+    margin-top:15px;
+    margin-bottom:15px;
+  }
+  .read-more-trigger:hover {
     background:#666;
     color:white;
-   }
-   
+  }
+  
