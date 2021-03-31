@@ -124,16 +124,25 @@ Beware of hidden costs. Costs are rarely fixed and vary based on different facto
 <br>
 
 <a href="#demo14" data-toggle="collapse">14. Have you balanced new ideas with experienced vendors?</a>
-<div id="demo14" class="collapse">
+<div id="demo14" class="collapse" width="100%">
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
 </div>
 <br>
 
 <a href="#demo15" data-toggle="collapse">15. Are you clear about the innovation and update process?</a>
-<div id="demo15" class="button8">
+<div id="demo15" class="collapse">
 The SaaS model frees you from all the hassle and costs that come with managing software, the caveat is that you also lose control. Does the SaaS provider give you the option to keep the old version of the software? Be clear about the innovation and update process of the SaaS vendor. Do you need to create an personalized agreement with the vendor before moving forward.
 </div>
 <br>
 </div>
-</div>
 <br>
+
+
+<div class="show-hide">
+ <input type="checkbox" class="read-more-state" id="visible" />
+ <div class="read-more-wrap">
+   <p>Visible Paragraph</p>
+   <p class="read-more-target">Hidden Paragraph</p>
+ </div>
+ <label for="visible" class="read-more-trigger"></label>
+</div>
