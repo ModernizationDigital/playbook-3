@@ -7,7 +7,6 @@ title: 'User Journey'
 
 Like we said in the previous section, using Containers as your modernization method is somewhat of a holistic approach. We have to check if it's the right path for you. Below you will see at a high level your journey to helping you move forward with Containerization. 
 ![user journey]({{site.baseurl}}/images/userJourney.png) 
-
 <strong>Step I: Learn about Cloud:</strong> First things first. You are not getting a container today. So no need to panic. First you will learn about containers, match available cloud services to your application needs, and when you are ready you will choose. This is a process, it will take a bit of time to wrap your head around the ideas and options. Just breathe.<br>
 
 
