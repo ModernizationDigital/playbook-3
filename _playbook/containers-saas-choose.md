@@ -138,11 +138,13 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 <br>
 
 
-<div class="show-hide">
- <input type="checkbox" class="read-more-state" id="visible" />
- <div class="read-more-wrap">
-   <p>Visible Paragraph</p>
-   <p class="read-more-target">Hidden Paragraph</p>
- </div>
- <label for="visible" class="read-more-trigger"></label>
+div class="show-hide">
+  <h2>Show / Hide Paragraphs</h2>
+  <input type="checkbox" class="read-more-state" id="visible" />
+  <div class="read-more-wrap">
+    <p><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis mattis libero. Nulla tincidunt quam sed purus hendrerit placerat. Ut a porttitor odio. Sed feugiat arcu quis tincidunt feugiat. Donec aliquam aliquet nibh eget luctus. Nunc eget neque non massa pulvinar efficitur fringilla quis augue. Donec vel tempus lacus. Pellentesque aliquet felis nisl, eget finibus velit volutpat vitae. Ut tincidunt dapibus nunc ac euismod. Nulla urna neque, porttitor sit amet arcu sed, dignissim sodales mauris. Proin quis ante nec eros mollis bibendum quis ac ex. Vestibulum tempus justo dui, ut venenatis felis pellentesque non. Etiam cursus imperdiet elit, hendrerit cursus risus pharetra et. Cras accumsan venenatis arcu at pulvinar. Quisque tristique nisl id lobortis sodales. Duis ornare metus nec justo rutrum, in convallis turpis cursus. </p>
+    
+    <p class="read-more-target"><br>Phasellus vel interdum enim, et vehicula mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent auctor efficitur ornare. Vestibulum hendrerit in diam ac imperdiet. Nulla maximus neque eget est hendrerit, quis volutpat ex semper. Nulla odio risus, vulputate sed leo et, luctus malesuada eros. Etiam et mauris nec dui vulputate feugiat nec et sapien. Ut sollicitudin mi quis justo viverra, eget dignissim velit congue. Curabitur lobortis, arcu et dapibus ullamcorper, magna tellus viverra leo, eu suscipit dui erat at sem. </p>
+  </div>
+  <label for="visible" class="read-more-trigger"></label>
 </div>
