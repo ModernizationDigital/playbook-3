@@ -118,13 +118,13 @@ Once you've migrated can your Saas provider guarantee data integrity and prevent
 <br>
 
 <a href="#demo13" data-toggle="collapse">13. What is the pricing model?</a>
-<div id="demo13" class="collapse" max-width="100">
+<div id="demo13" class="collapse">
 Beware of hidden costs. Costs are rarely fixed and vary based on different factors including user count, API hits, bandwidth usage, etc. Bring in your legal team and specialists to go through the SaaS service’s fine print. 
 </div>
 <br>
 
 <a href="#demo14" data-toggle="collapse">14. Have you balanced new ideas with experienced vendors?</a>
-<div id="demo14" class="collapse" $content-width="800px">
+<div id="demo14" class="collapse">
 Often new startups have exciting innovative ideas and designs. However it would be helpful to weigh that against mature experienced vendors. Who has staying power, experience and will they last? Will they succeed or go out of business? You want your SaaS to be stable. 
 </div>
 <br>
