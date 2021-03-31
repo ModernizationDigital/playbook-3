@@ -18,4 +18,3 @@ For the past century the width of the Panama canal has driven the standardized s
 <hr />
 <iframe width='800' height='450' src="https://www.youtube.com/embed/dqApxbgNoa8" frameborder="0" allowfullscreen></iframe>
 </div>
-<br>
