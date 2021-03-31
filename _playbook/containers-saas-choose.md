@@ -29,7 +29,7 @@ Detail the benefits you expect to get from your saas. What are the must-haves an
     <td></td>
   </tr>
 </table>
-</div>
+</div></div>
 <br>
 
 
@@ -48,7 +48,7 @@ c. and others where you need to add other products
 <strong>Browsers:</strong> You want to think about your saas behavior in different browsers. We can't foresee the future, but think about how different products work in Chrome vs Explorer.<br>
 <strong>Devices:</strong> Test or review the saas product on andriod and ios devices. It would be rare to be able to determine which product your end user will have. <br>
 <strong>Responsive:</strong>  Is your application simple enough that your user will use their mobile device? Or is it intensive/extensive enough that they will only use desktop. Unless you answer definitively to these two questions, you may need to have a responsive/ adaptive design.
-</div>
+</div></div>
 <br>
 
 
@@ -60,6 +60,7 @@ Will they keep a copy of your data? Is that a violation of your privacy regulati
 Is it open source? This will allow anyone to be able to edit, fix your code later.
 </div>
 <br>
+</div>
 
 <a href="#demo5" data-toggle="collapse">5. Saas Provider Support</a>
 <div id="demo5" class="collapse">
