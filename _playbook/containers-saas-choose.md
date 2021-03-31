@@ -138,7 +138,7 @@ The SaaS model frees you from all the hassle and costs that come with managing s
 <br>
 
 
-div class="show-hide">
+<div class="show-hide">
   <h2>Show / Hide Paragraphs</h2>
   <input type="checkbox" class="read-more-state" id="visible" />
   <div class="read-more-wrap">
